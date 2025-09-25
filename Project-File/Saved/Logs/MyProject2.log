@@ -1226,3 +1226,402 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.09.25-10.53.46:998][910]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5452.332031
 [2025.09.25-10.53.47:997][912]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.09.25-10.53.47:997][912]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5452.998535, Update Interval: 303.896606
+[2025.09.25-10.59.47:840][122]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5813.189453
+[2025.09.25-10.59.48:839][125]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.25-10.59.48:839][126]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5813.855957, Update Interval: 304.499023
+[2025.09.25-11.05.31:895][154]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6157.253906
+[2025.09.25-11.05.32:895][157]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.25-11.05.32:895][157]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6157.920898, Update Interval: 318.823822
+[2025.09.25-11.11.31:613][233]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6516.976074
+[2025.09.25-11.11.32:614][236]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.25-11.11.32:614][237]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6517.643555, Update Interval: 312.592560
+[2025.09.25-11.17.36:332][327]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6881.695801
+[2025.09.25-11.17.37:334][330]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.25-11.17.37:334][330]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6882.363770, Update Interval: 341.606506
+[2025.09.25-11.24.13:391][518]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7278.760742
+[2025.09.25-11.24.14:388][521]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.25-11.24.14:388][521]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7279.426270, Update Interval: 301.882385
+[2025.09.25-11.24.41:406][603]LogDerivedDataCache: C:/Users/s4203496/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.09.25-11.30.00:111][558]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7625.484375
+[2025.09.25-11.30.01:110][561]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.25-11.30.01:110][561]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7626.150879, Update Interval: 357.035431
+[2025.09.25-11.36.56:847][808]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8042.224609
+[2025.09.25-11.36.57:848][811]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.25-11.36.57:848][812]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8042.892578, Update Interval: 309.437531
+[2025.09.25-11.43.03:896][909]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8409.280273
+[2025.09.25-11.43.04:896][912]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.25-11.43.04:896][912]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8409.947266, Update Interval: 344.413574
+[2025.09.25-11.44.40:524][806]LogStreaming: Display: FlushAsyncLoading(400): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.25-11.44.40:586][806]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/s4203496/Documents/GitHub/AED/FBX/Assets/trial.fbx]
+[2025.09.25-11.44.42:624][806]LogSlate: Window 'Import Content' being destroyed
+[2025.09.25-11.44.42:656][806]LogInterchangeEngine: [Pending] Importing
+[2025.09.25-11.44.42:735][807]LogStreaming: Display: FlushAsyncLoading(406): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.25-11.44.42:800][809]LogStaticMesh: Display: Building static mesh trial (Required Memory Estimate: 0.050722 MB)...
+[2025.09.25-11.44.42:803][809]LogStaticMesh: Adjacency [0.00s], tris: 28, UVs 1
+[2025.09.25-11.44.42:803][809]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2025.09.25-11.44.42:803][809]LogStaticMesh: Leaves [0.00s]
+[2025.09.25-11.44.42:803][809]LogStaticMesh: Reduce [0.00s]
+[2025.09.25-11.44.42:803][809]LogStaticMesh: Fallback [0.00s], num tris: 28
+[2025.09.25-11.44.42:804][809]LogStaticMesh: ConstrainClusters:
+[2025.09.25-11.44.42:804][809]LogStaticMesh:   Input: 1 Clusters, 28 Triangles and 16 Vertices
+[2025.09.25-11.44.42:804][809]LogStaticMesh:   Output without splits: 1 Clusters, 28 Triangles and 16 Vertices
+[2025.09.25-11.44.42:804][809]LogStaticMesh:   Output with splits: 1 Clusters, 28 Triangles and 16 Vertices
+[2025.09.25-11.44.42:804][809]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 1, Slow Path Clusters: 0, 1 Material: 1, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2025.09.25-11.44.42:804][809]LogStaticMesh: WritePages:
+[2025.09.25-11.44.42:804][809]LogStaticMesh:   Root: GPU size: 380 bytes. 1 Pages. 380.000 bytes per page (1.160% utilization).
+[2025.09.25-11.44.42:804][809]LogStaticMesh:   Streaming: 0 bytes.
+[2025.09.25-11.44.42:804][809]LogStaticMesh:   Page data disk size: 504 bytes. Fixup data size: 24 bytes.
+[2025.09.25-11.44.42:804][809]LogStaticMesh:   Total GPU size: 380 bytes, Total disk size: 528 bytes.
+[2025.09.25-11.44.42:804][809]LogStaticMesh: Encode [0.00s]
+[2025.09.25-11.44.42:804][809]LogStaticMesh: NaniteBuild [0.00s]
+[2025.09.25-11.44.42:805][809]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/trial.trial
+[2025.09.25-11.44.43:001][810]LogInterchangeEngine: Display: Interchange import completed [C:/Users/s4203496/Do...itHub/AED/FBX/Assets/trial.fbx]
+[2025.09.25-11.44.43:001][810]Interchange: Warning: [C:/Users/s4203496/Documents/GitHub/AED/FBX/Assets/trial.fbx : 'trial', StaticMesh] No smoothing group information was found for this mesh 'Plane_001' in the FBX file. Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter before exporting the file.
+[2025.09.25-11.44.43:021][810]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.09.25-11.44.43:021][810]LogInterchangeEngine: [Success] Import Done
+[2025.09.25-11.44.44:582][875]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/trial.trial
+[2025.09.25-11.44.44:583][875]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/trial.trial
+[2025.09.25-11.44.44:584][875]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/trial.trial as actor: StaticMeshActor /Game/Environment.Environment:PersistentLevel.StaticMeshActor_14
+[2025.09.25-11.44.45:245][946]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2025.09.25-11.44.45:247][946]LogEditorActor: Deleted 0 Actors (0.020 secs)
+[2025.09.25-11.44.45:252][946]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/trial.trial
+[2025.09.25-11.44.45:252][946]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/trial.trial
+[2025.09.25-11.44.45:253][946]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/trial.trial as actor: StaticMeshActor /Game/Environment.Environment:PersistentLevel.StaticMeshActor_121
+[2025.09.25-11.45.31:307][417]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2025.09.25-11.45.31:362][417]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Environment_Auto1
+[2025.09.25-11.45.31:362][417]LogSavePackage: Moving '../../../../../../Users/s4203496/Documents/GitHub/AED/Project-File/Saved/Environment_Auto19930F8F14B370FB16CF1F8BCA004963F.tmp' to '../../../../../../Users/s4203496/Documents/GitHub/AED/Project-File/Saved/Autosaves/Game/Environment_Auto1.umap'
+[2025.09.25-11.45.31:365][417]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Environment' took 0.070
+[2025.09.25-11.45.31:365][417]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.070
+[2025.09.25-11.45.31:365][417]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/trial] ([1] browsable assets)...
+[2025.09.25-11.45.31:395][417]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/trial.trial]
+[2025.09.25-11.45.31:395][417]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/trial]
+[2025.09.25-11.45.31:395][417]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/trial" FILE="../../../../../../Users/s4203496/Documents/GitHub/AED/Project-File/Saved/Autosaves/Game/Assets/trial_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2025.09.25-11.45.31:407][417]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/trial_Auto1
+[2025.09.25-11.45.31:407][417]LogSavePackage: Moving '../../../../../../Users/s4203496/Documents/GitHub/AED/Project-File/Saved/trial_Auto14EA2B9EF44B0BD83CE4B3FB0A2A99D21.tmp' to '../../../../../../Users/s4203496/Documents/GitHub/AED/Project-File/Saved/Autosaves/Game/Assets/trial_Auto1.uasset'
+[2025.09.25-11.45.31:408][417]LogFileHelpers: Auto-saving content packages took 0.043
+[2025.09.25-11.45.33:452][530]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/trial.trial
+[2025.09.25-11.45.33:452][530]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/trial.trial
+[2025.09.25-11.45.33:452][530]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/trial.trial as actor: StaticMeshActor /Game/Environment.Environment:PersistentLevel.StaticMeshActor_123
+[2025.09.25-11.45.33:799][567]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2025.09.25-11.45.33:800][567]LogEditorActor: Deleted 0 Actors (0.014 secs)
+[2025.09.25-11.45.33:805][567]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/trial.trial
+[2025.09.25-11.45.33:805][567]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/trial.trial
+[2025.09.25-11.45.33:806][567]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/trial.trial as actor: StaticMeshActor /Game/Environment.Environment:PersistentLevel.StaticMeshActor_124
+[2025.09.25-11.46.20:038][488]Cmd: EDIT CUT
+[2025.09.25-11.46.20:046][488]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.09.25-11.46.20:058][488]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2025.09.25-11.46.20:061][488]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2025.09.25-11.46.23:473][767]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2025.09.25-11.46.23:630][767]LogSlate: Last resort fallback font was requested. Font: '<unknown>', Character: '<unknown>'
+[2025.09.25-11.46.23:641][767]LogSlate: Took 0.010740 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2025.09.25-11.46.24:942][767]LogSlate: Window 'Delete Assets' being destroyed
+[2025.09.25-11.46.24:991][767]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Assets/trial.trial
+	Asset Type: StaticMesh
+[2025.09.25-11.46.25:100][767]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2025.09.25-11.46.25:112][767]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2025.09.25-11.46.25:125][767]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2025.09.25-11.46.29:669][957]LogStreaming: Display: FlushAsyncLoading(407): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.25-11.46.29:719][957]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/s4203496/Documents/GitHub/AED/FBX/Assets/trial.fbx]
+[2025.09.25-11.46.31:401][957]LogSlate: Window 'Import Content' being destroyed
+[2025.09.25-11.46.31:418][957]LogInterchangeEngine: [Pending] Importing
+[2025.09.25-11.46.31:498][958]LogStreaming: Display: FlushAsyncLoading(408): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.25-11.46.31:551][960]LogStaticMesh: Display: Building static mesh trial (Required Memory Estimate: 0.075155 MB)...
+[2025.09.25-11.46.31:552][960]LogStaticMesh: Adjacency [0.00s], tris: 44, UVs 1
+[2025.09.25-11.46.31:552][960]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2025.09.25-11.46.31:552][960]LogStaticMesh: Leaves [0.00s]
+[2025.09.25-11.46.31:552][960]LogStaticMesh: Reduce [0.00s]
+[2025.09.25-11.46.31:552][960]LogStaticMesh: Fallback [0.00s], num tris: 44
+[2025.09.25-11.46.31:552][960]LogStaticMesh: ConstrainClusters:
+[2025.09.25-11.46.31:552][960]LogStaticMesh:   Input: 1 Clusters, 44 Triangles and 24 Vertices
+[2025.09.25-11.46.31:552][960]LogStaticMesh:   Output without splits: 1 Clusters, 44 Triangles and 24 Vertices
+[2025.09.25-11.46.31:552][960]LogStaticMesh:   Output with splits: 1 Clusters, 44 Triangles and 24 Vertices
+[2025.09.25-11.46.31:552][960]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 1, Slow Path Clusters: 0, 1 Material: 1, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2025.09.25-11.46.31:552][960]LogStaticMesh: WritePages:
+[2025.09.25-11.46.31:552][960]LogStaticMesh:   Root: GPU size: 500 bytes. 1 Pages. 500.000 bytes per page (1.526% utilization).
+[2025.09.25-11.46.31:552][960]LogStaticMesh:   Streaming: 0 bytes.
+[2025.09.25-11.46.31:552][960]LogStaticMesh:   Page data disk size: 608 bytes. Fixup data size: 24 bytes.
+[2025.09.25-11.46.31:552][960]LogStaticMesh:   Total GPU size: 500 bytes, Total disk size: 632 bytes.
+[2025.09.25-11.46.31:552][960]LogStaticMesh: Encode [0.00s]
+[2025.09.25-11.46.31:552][960]LogStaticMesh: NaniteBuild [0.00s]
+[2025.09.25-11.46.31:552][960]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/trial.trial
+[2025.09.25-11.46.31:751][961]LogInterchangeEngine: Display: Interchange import completed [C:/Users/s4203496/Do...itHub/AED/FBX/Assets/trial.fbx]
+[2025.09.25-11.46.31:751][961]Interchange: Warning: [C:/Users/s4203496/Documents/GitHub/AED/FBX/Assets/trial.fbx : 'trial', StaticMesh] No smoothing group information was found for this mesh 'Plane_001' in the FBX file. Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter before exporting the file.
+[2025.09.25-11.46.31:769][961]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.09.25-11.46.31:769][961]LogInterchangeEngine: [Success] Import Done
+[2025.09.25-11.46.33:312][ 31]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/trial.trial
+[2025.09.25-11.46.33:312][ 31]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/trial.trial
+[2025.09.25-11.46.33:312][ 31]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/trial.trial as actor: StaticMeshActor /Game/Environment.Environment:PersistentLevel.StaticMeshActor_128
+[2025.09.25-11.46.34:214][135]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2025.09.25-11.46.34:216][135]LogEditorActor: Deleted 0 Actors (0.015 secs)
+[2025.09.25-11.46.34:220][135]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/trial.trial
+[2025.09.25-11.46.34:220][135]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/trial.trial
+[2025.09.25-11.46.34:221][135]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/trial.trial as actor: StaticMeshActor /Game/Environment.Environment:PersistentLevel.StaticMeshActor_131
+[2025.09.25-11.46.46:912][887]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/trial.trial
+[2025.09.25-11.46.46:912][887]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/trial.trial
+[2025.09.25-11.46.46:912][887]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/trial.trial as actor: StaticMeshActor /Game/Environment.Environment:PersistentLevel.StaticMeshActor_132
+[2025.09.25-11.46.48:828][106]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2025.09.25-11.46.48:829][106]LogEditorActor: Deleted 0 Actors (0.013 secs)
+[2025.09.25-11.46.48:834][106]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/trial.trial
+[2025.09.25-11.46.48:834][106]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/trial.trial
+[2025.09.25-11.46.48:835][106]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/trial.trial as actor: StaticMeshActor /Game/Environment.Environment:PersistentLevel.StaticMeshActor_138
+[2025.09.25-11.46.58:987][700]Cmd: EDIT CUT
+[2025.09.25-11.46.58:992][700]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.09.25-11.46.59:006][700]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2025.09.25-11.46.59:009][700]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2025.09.25-11.47.07:413][237]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2025.09.25-11.47.09:590][237]LogSlate: Window 'Save Content' being destroyed
+[2025.09.25-11.47.09:601][237]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.25-11.47.09:641][237]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Environment" FILE="../../../../../../Users/s4203496/Documents/GitHub/AED/Project-File/Content/Environment.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.09.25-11.47.09:680][237]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2025.09.25-11.47.09:720][237]LogSavePackage: Moving output files for package: /Game/Environment
+[2025.09.25-11.47.09:720][237]LogSavePackage: Moving '../../../../../../Users/s4203496/Documents/GitHub/AED/Project-File/Saved/Environment77E38EA64C25DDC361EB519A5E225675.tmp' to '../../../../../../Users/s4203496/Documents/GitHub/AED/Project-File/Content/Environment.umap'
+[2025.09.25-11.47.09:727][237]LogFileHelpers: Saving map 'Environment' took 0.086
+[2025.09.25-11.47.09:727][237]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/trial] ([1] browsable assets)...
+[2025.09.25-11.47.09:776][237]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/trial.trial]
+[2025.09.25-11.47.09:776][237]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/trial]
+[2025.09.25-11.47.09:776][237]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/trial" FILE="../../../../../../Users/s4203496/Documents/GitHub/AED/Project-File/Content/Assets/trial.uasset" SILENT=true
+[2025.09.25-11.47.09:786][237]LogSavePackage: Moving output files for package: /Game/Assets/trial
+[2025.09.25-11.47.09:786][237]LogSavePackage: Moving '../../../../../../Users/s4203496/Documents/GitHub/AED/Project-File/Saved/trialE75140944683EAF4201C04BA8F807DC0.tmp' to '../../../../../../Users/s4203496/Documents/GitHub/AED/Project-File/Content/Assets/trial.uasset'
+[2025.09.25-11.47.09:839][237]LogFileHelpers: InternalPromptForCheckoutAndSave took 236.884 ms
+[2025.09.25-11.47.09:839][237]LogStreaming: Display: FlushAsyncLoading(409): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.25-11.47.09:857][237]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ThirdPerson
+[2025.09.25-11.47.09:861][237]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_ThirdPerson)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2025.09.25-11.47.09:861][237]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.09.25-11.47.09:861][237]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson, World Type = Inactive, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.09.25-11.47.10:147][237]LogWorldPartition: Display: WorldPartition initialize took 286.434 ms (total: 857.777 ms)
+[2025.09.25-11.47.10:150][237]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson
+[2025.09.25-11.47.10:150][237]Cmd: MAP LOAD FILE="../../../../../../Users/s4203496/Documents/GitHub/AED/Project-File/Content/ThirdPerson/Lvl_ThirdPerson.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.09.25-11.47.10:177][237]LogWorld: UWorld::CleanupWorld for Environment, bSessionEnded=true, bCleanupResources=true
+[2025.09.25-11.47.10:177][237]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.25-11.47.10:192][237]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.09.25-11.47.10:195][237]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2025.09.25-11.47.10:197][237]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2025.09.25-11.47.10:197][237]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.25-11.47.10:197][237]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson
+[2025.09.25-11.47.10:211][237]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2025.09.25-11.47.10:224][237]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2025.09.25-11.47.10:226][237]LogAudio: Display: Audio Device (ID: 1) registered with world 'Lvl_ThirdPerson'.
+[2025.09.25-11.47.10:226][237]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ThirdPerson
+[2025.09.25-11.47.10:227][237]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_ThirdPerson)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2025.09.25-11.47.10:227][237]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.09.25-11.47.10:227][237]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson, World Type = Editor, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.09.25-11.47.10:235][237]LogWorldPartition: Display: WorldPartition initialize took 8.649 ms (total: 866.426 ms)
+[2025.09.25-11.47.10:254][237]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.09.25-11.47.10:268][237]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2025.09.25-11.47.10:273][237]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.09.25-11.47.10:273][237]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.399ms to complete.
+[2025.09.25-11.47.10:322][237]LogContentValidation: Display: Starting to validate 2 assets
+[2025.09.25-11.47.10:322][237]LogContentValidation: Enabled validators:
+[2025.09.25-11.47.10:322][237]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.25-11.47.10:322][237]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.25-11.47.10:322][237]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.25-11.47.10:322][237]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.25-11.47.10:322][237]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.25-11.47.10:322][237]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.25-11.47.10:323][237]AssetCheck: /Game/Assets/trial Validating asset
+[2025.09.25-11.47.10:340][237]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/s4203496/Documents/GitHub/AED/Project-File/Saved/SourceControl/UncontrolledChangelists.json
+[2025.09.25-11.47.14:461][464]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/trial.trial
+[2025.09.25-11.47.14:461][464]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/trial.trial
+[2025.09.25-11.47.14:462][464]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/trial.trial as actor: StaticMeshActor /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.StaticMeshActor_0
+[2025.09.25-11.47.15:269][557]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2025.09.25-11.47.15:270][557]LogEditorActor: Deleted 0 Actors (0.014 secs)
+[2025.09.25-11.47.15:274][557]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/trial.trial
+[2025.09.25-11.47.15:275][557]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/trial.trial
+[2025.09.25-11.47.15:276][557]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/trial.trial as actor: StaticMeshActor /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.StaticMeshActor_UAID_4CD7178FFE235B9202_1335741687
+[2025.09.25-11.47.22:310][962]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_2
+[2025.09.25-11.47.23:529][ 19]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2025.09.25-11.48.21:142][845]Cmd: EDIT CUT
+[2025.09.25-11.48.21:143][845]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.09.25-11.48.21:158][845]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2025.09.25-11.48.21:160][845]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2025.09.25-11.48.26:978][239]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2025.09.25-11.48.29:209][239]LogSlate: Window 'Delete Assets' being destroyed
+[2025.09.25-11.48.29:228][239]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Assets/trial.trial
+	Asset Type: StaticMesh
+[2025.09.25-11.48.29:319][239]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2025.09.25-11.48.29:331][239]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2025.09.25-11.48.29:344][239]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2025.09.25-11.48.32:393][320]LogStreaming: Display: FlushAsyncLoading(547): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.25-11.48.32:444][320]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/s4203496/Documents/GitHub/AED/FBX/Assets/trial.fbx]
+[2025.09.25-11.48.34:336][320]LogSlate: Window 'Import Content' being destroyed
+[2025.09.25-11.48.34:357][320]LogInterchangeEngine: [Pending] Importing
+[2025.09.25-11.48.34:438][321]LogStreaming: Display: FlushAsyncLoading(548): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.25-11.48.34:491][323]LogStaticMesh: Display: Building static mesh trial (Required Memory Estimate: 0.075155 MB)...
+[2025.09.25-11.48.34:491][323]LogStaticMesh: Adjacency [0.00s], tris: 44, UVs 1
+[2025.09.25-11.48.34:491][323]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2025.09.25-11.48.34:491][323]LogStaticMesh: Leaves [0.00s]
+[2025.09.25-11.48.34:491][323]LogStaticMesh: Reduce [0.00s]
+[2025.09.25-11.48.34:492][323]LogStaticMesh: Fallback [0.00s], num tris: 44
+[2025.09.25-11.48.34:492][323]LogStaticMesh: ConstrainClusters:
+[2025.09.25-11.48.34:492][323]LogStaticMesh:   Input: 1 Clusters, 44 Triangles and 24 Vertices
+[2025.09.25-11.48.34:492][323]LogStaticMesh:   Output without splits: 1 Clusters, 44 Triangles and 24 Vertices
+[2025.09.25-11.48.34:492][323]LogStaticMesh:   Output with splits: 1 Clusters, 44 Triangles and 24 Vertices
+[2025.09.25-11.48.34:492][323]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 1, Slow Path Clusters: 0, 1 Material: 1, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2025.09.25-11.48.34:492][323]LogStaticMesh: WritePages:
+[2025.09.25-11.48.34:492][323]LogStaticMesh:   Root: GPU size: 500 bytes. 1 Pages. 500.000 bytes per page (1.526% utilization).
+[2025.09.25-11.48.34:492][323]LogStaticMesh:   Streaming: 0 bytes.
+[2025.09.25-11.48.34:492][323]LogStaticMesh:   Page data disk size: 608 bytes. Fixup data size: 24 bytes.
+[2025.09.25-11.48.34:492][323]LogStaticMesh:   Total GPU size: 500 bytes, Total disk size: 632 bytes.
+[2025.09.25-11.48.34:492][323]LogStaticMesh: Encode [0.00s]
+[2025.09.25-11.48.34:492][323]LogStaticMesh: NaniteBuild [0.00s]
+[2025.09.25-11.48.34:492][323]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/trial.trial
+[2025.09.25-11.48.34:696][324]LogInterchangeEngine: Display: Interchange import completed [C:/Users/s4203496/Do...itHub/AED/FBX/Assets/trial.fbx]
+[2025.09.25-11.48.34:696][324]Interchange: Warning: [C:/Users/s4203496/Documents/GitHub/AED/FBX/Assets/trial.fbx : 'trial', StaticMesh] No smoothing group information was found for this mesh 'Plane_001' in the FBX file. Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter before exporting the file.
+[2025.09.25-11.48.34:708][324]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.09.25-11.48.34:708][324]LogInterchangeEngine: [Success] Import Done
+[2025.09.25-11.48.35:700][358]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/trial.trial
+[2025.09.25-11.48.35:700][358]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/trial.trial
+[2025.09.25-11.48.35:700][358]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/trial.trial as actor: StaticMeshActor /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.StaticMeshActor_1
+[2025.09.25-11.48.36:568][458]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2025.09.25-11.48.36:569][458]LogEditorActor: Deleted 0 Actors (0.014 secs)
+[2025.09.25-11.48.36:574][458]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/trial.trial
+[2025.09.25-11.48.36:574][458]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/trial.trial
+[2025.09.25-11.48.36:575][458]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/trial.trial as actor: StaticMeshActor /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.StaticMeshActor_UAID_4CD7178FFE235B9202_1417040688
+[2025.09.25-11.49.28:748][661]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8794.110352
+[2025.09.25-11.49.28:879][669]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.25-11.49.28:879][669]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8794.221680, Update Interval: 320.145874
+[2025.09.25-11.49.45:400][633]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.25-11.49.45:495][633]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2025.09.25-11.49.45:511][633]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2025.09.25-11.49.45:523][633]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2025.09.25-11.49.45:532][633]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/6/PU/H2HYPU8417P7371NQTO7VP
+[2025.09.25-11.49.45:532][633]LogSavePackage: Moving '../../../../../../Users/s4203496/Documents/GitHub/AED/Project-File/Saved/H2HYPU8417P7371NQTO7VP2306BCAC49B7748748BBB3A6E19C9826.tmp' to '../../../../../../Users/s4203496/Documents/GitHub/AED/Project-File/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/6/PU/H2HYPU8417P7371NQTO7VP.uasset'
+[2025.09.25-11.49.45:546][633]LogFileHelpers: InternalPromptForCheckoutAndSave took 147.290 ms (total: 384.175 ms)
+[2025.09.25-11.49.45:575][633]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.25-11.49.45:575][633]LogContentValidation: Enabled validators:
+[2025.09.25-11.49.45:575][633]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.25-11.49.45:575][633]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.25-11.49.45:575][633]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.25-11.49.45:575][633]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.25-11.49.45:575][633]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.25-11.49.45:575][633]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.25-11.49.45:575][633]AssetCheck: /Game/ThirdPerson/Lvl_ThirdPerson Validating asset
+[2025.09.25-11.49.45:604][633]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/s4203496/Documents/GitHub/AED/Project-File/Saved/SourceControl/UncontrolledChangelists.json
+[2025.09.25-11.51.53:539][581]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2025.09.25-11.51.55:014][581]LogSlate: Window 'Save Content' being destroyed
+[2025.09.25-11.51.55:023][581]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.25-11.51.55:069][581]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/trial] ([1] browsable assets)...
+[2025.09.25-11.51.55:107][581]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/trial.trial]
+[2025.09.25-11.51.55:107][581]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/trial]
+[2025.09.25-11.51.55:107][581]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/trial" FILE="../../../../../../Users/s4203496/Documents/GitHub/AED/Project-File/Content/Assets/trial.uasset" SILENT=true
+[2025.09.25-11.51.55:118][581]LogSavePackage: Moving output files for package: /Game/Assets/trial
+[2025.09.25-11.51.55:118][581]LogSavePackage: Moving '../../../../../../Users/s4203496/Documents/GitHub/AED/Project-File/Saved/trial5B7B17A54525FC06CB347A9BA4BB6E73.tmp' to '../../../../../../Users/s4203496/Documents/GitHub/AED/Project-File/Content/Assets/trial.uasset'
+[2025.09.25-11.51.55:184][581]LogFileHelpers: InternalPromptForCheckoutAndSave took 161.397 ms (total: 545.573 ms)
+[2025.09.25-11.51.55:184][581]LogStreaming: Display: FlushAsyncLoading(549): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.25-11.51.55:195][581]LogChaosDD: Creating Chaos Debug Draw Scene for world Environment
+[2025.09.25-11.51.55:200][581]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Environment.Environment
+[2025.09.25-11.51.55:201][581]Cmd: MAP LOAD FILE="../../../../../../Users/s4203496/Documents/GitHub/AED/Project-File/Content/Environment.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.09.25-11.51.55:266][581]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2025.09.25-11.51.55:266][581]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.25-11.51.55:266][581]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson
+[2025.09.25-11.51.55:286][581]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.09.25-11.51.55:288][581]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2025.09.25-11.51.55:290][581]LogWorld: UWorld::CleanupWorld for Environment, bSessionEnded=true, bCleanupResources=true
+[2025.09.25-11.51.55:291][581]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.25-11.51.55:303][581]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2025.09.25-11.51.55:317][581]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2025.09.25-11.51.55:327][581]LogAudio: Display: Audio Device (ID: 1) registered with world 'Environment'.
+[2025.09.25-11.51.55:327][581]LogChaosDD: Creating Chaos Debug Draw Scene for world Environment
+[2025.09.25-11.51.55:343][581]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.09.25-11.51.55:360][581]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2025.09.25-11.51.55:364][581]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.09.25-11.51.55:364][581]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.054ms to complete.
+[2025.09.25-11.51.55:417][581]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.25-11.51.55:417][581]LogContentValidation: Enabled validators:
+[2025.09.25-11.51.55:417][581]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.25-11.51.55:417][581]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.25-11.51.55:417][581]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.25-11.51.55:417][581]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.25-11.51.55:417][581]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.25-11.51.55:418][581]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.25-11.51.55:418][581]AssetCheck: /Game/Assets/trial Validating asset
+[2025.09.25-11.55.38:467][309]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9163.958984
+[2025.09.25-11.55.39:483][312]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.25-11.55.39:483][313]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9164.626953, Update Interval: 328.103882
+[2025.09.25-12.01.41:219][397]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9526.724609
+[2025.09.25-12.01.42:216][400]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.25-12.01.42:216][400]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9527.386719, Update Interval: 316.613678
+[2025.09.25-12.07.50:634][506]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9896.141602
+[2025.09.25-12.07.51:632][508]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.25-12.07.51:632][508]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9896.807617, Update Interval: 301.629700
+[2025.09.25-12.13.34:947][737]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10240.386719
+[2025.09.25-12.13.35:949][740]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.25-12.13.35:949][740]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10241.058594, Update Interval: 331.059296
+[2025.09.25-12.20.06:695][912]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10632.142578
+[2025.09.25-12.20.07:696][915]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.25-12.20.07:696][915]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10632.811523, Update Interval: 349.698181
+[2025.09.25-12.24.41:407][736]LogDerivedDataCache: C:/Users/s4203496/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.09.25-12.26.27:451][ 54]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11012.900391
+[2025.09.25-12.26.28:443][ 57]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.25-12.26.28:443][ 57]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11013.559570, Update Interval: 358.569916
+[2025.09.25-12.33.14:205][274]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11419.672852
+[2025.09.25-12.33.15:204][277]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.25-12.33.15:205][278]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11420.338867, Update Interval: 302.534271
+[2025.09.25-12.39.07:595][335]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11773.053711
+[2025.09.25-12.39.08:596][337]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.25-12.39.08:596][337]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11773.721680, Update Interval: 321.107208
+[2025.09.25-12.45.24:997][466]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12150.464844
+[2025.09.25-12.45.25:997][469]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.25-12.45.25:997][470]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12151.130859, Update Interval: 326.906342
+[2025.09.25-12.47.48:437][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2025.09.25-12.47.48:476][958]LogStall: Shutdown...
+[2025.09.25-12.47.48:476][958]LogStall: Shutdown complete.
+[2025.09.25-12.47.48:515][958]LogSlate: Window 'MyProject2 - Unreal Editor' being destroyed
+[2025.09.25-12.47.48:593][958]Cmd: QUIT_EDITOR
+[2025.09.25-12.47.48:593][959]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2025.09.25-12.47.48:595][959]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2025.09.25-12.47.48:596][959]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2025.09.25-12.47.48:596][959]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2025.09.25-12.47.48:599][959]LogWorld: UWorld::CleanupWorld for Environment, bSessionEnded=true, bCleanupResources=true
+[2025.09.25-12.47.48:600][959]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.25-12.47.48:604][959]LogTedsSettings: UTedsSettingsEditorSubsystem::Deinitialize
+[2025.09.25-12.47.48:605][959]LogStylusInput: Shutting down StylusInput subsystem.
+[2025.09.25-12.47.48:606][959]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2025.09.25-12.47.48:608][959]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2025.09.25-12.47.48:608][959]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.25-12.47.48:609][959]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2025.09.25-12.47.48:609][959]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.25-12.47.48:609][959]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2025.09.25-12.47.48:609][959]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.25-12.47.48:610][959]LogRuntimeTelemetry: Recording EnginePreExit events
+[2025.09.25-12.47.48:610][959]LogStudioTelemetry: Ended StudioTelemetry Session
+[2025.09.25-12.47.48:616][959]LogAnalytics: Display: [UEEditor.Rocket.Release] AnalyticsET::EndSession
+[2025.09.25-12.47.48:617][959]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2025.09.25-12.47.48:617][959]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2025.09.25-12.47.48:617][959]LogAudio: Display: Audio Device unregistered from world 'Environment'.
+[2025.09.25-12.47.48:617][959]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2025.09.25-12.47.48:617][959]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=4
+[2025.09.25-12.47.48:619][959]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=2
+[2025.09.25-12.47.48:624][959]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2025.09.25-12.47.48:624][959]LogAudio: Display: Audio Device Manager Shutdown
+[2025.09.25-12.47.48:625][959]LogWindowsTextInputMethodSystem: Activated input method: English (United Kingdom) - (Keyboard).
+[2025.09.25-12.47.48:626][959]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2025.09.25-12.47.48:628][959]LogExit: Preparing to exit.
+[2025.09.25-12.47.48:656][959]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2025.09.25-12.47.49:645][959]LogEditorDataStorage: Deinitializing
+[2025.09.25-12.47.49:749][959]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2025.09.25-12.47.49:761][959]LogExit: Editor shut down
+[2025.09.25-12.47.49:762][959]LogExit: Transaction tracking system shut down
+[2025.09.25-12.47.49:852][959]LogExit: Object subsystem successfully closed.
+[2025.09.25-12.47.49:912][959]LogShaderCompilers: Display: Shaders left to compile 0
+[2025.09.25-12.47.49:980][959]LogMemoryProfiler: Shutdown
+[2025.09.25-12.47.49:980][959]LogNetworkingProfiler: Shutdown
+[2025.09.25-12.47.49:980][959]LoadingProfiler: Shutdown
+[2025.09.25-12.47.49:981][959]LogTimingProfiler: Shutdown
+[2025.09.25-12.47.49:982][959]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDGenericDebugDrawExtension] ...
+[2025.09.25-12.47.49:982][959]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDAccelerationStructuresExtension] ...
+[2025.09.25-12.47.50:238][959]LogChaosDD: Chaos Debug Draw Shutdown
+[2025.09.25-12.47.50:247][959]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2025.09.25-12.47.50:247][959]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE6562143-4218-8863-623A-04B789FED21C%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.0-43139311%2B%2B%2BUE5%2BRelease-5.6&UserID=2a9f4dbe4d9c72e3da039da5f6c48292%7C%7C5436fb58-c1c6-4999-b295-d4ebfa153f84&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2025.09.25-12.47.50:784][959]LogEOSShared: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2025.09.25-12.47.50:784][959]RenderDocPlugin: plugin has been unloaded.
+[2025.09.25-12.47.50:787][959]LogNFORDenoise: NFORDenoise function shutting down
+[2025.09.25-12.47.50:788][959]LogXGEController: Cleaning working directory: C:/Users/s4203496/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2025.09.25-12.47.50:790][959]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2025.09.25-12.47.50:790][959]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2025.09.25-12.47.50:790][959]LogPakFile: Destroying PakPlatformFile
+[2025.09.25-12.47.51:080][959]LogD3D12RHI: ~FD3D12DynamicRHI
+[2025.09.25-12.47.51:116][959]LogExit: Exiting.
+[2025.09.25-12.47.51:131][959]Log file closed, 09/25/25 13:47:51
