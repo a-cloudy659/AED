@@ -1239,3 +1239,405 @@ FPackageName: Skipped package /Game/Assets/test has a valid, mounted, mount poin
 [2025.10.29-13.15.10:707][746]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 657.671448
 [2025.10.29-13.15.11:706][749]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.10.29-13.15.11:706][749]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 658.336121, Update Interval: 352.737823
+[2025.10.29-13.19.33:634][815]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_1
+[2025.10.29-13.19.40:305][141]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2025.10.29-13.19.40:396][141]LogContentBrowser: Creating deferred item: NewMaterial
+[2025.10.29-13.19.40:407][142]LogContentBrowser: Renaming the item being created (Deferred Item: NewMaterial).
+[2025.10.29-13.19.43:110][241]LogContentBrowser: Attempting asset rename: NewMaterial -> Planks
+[2025.10.29-13.19.43:112][241]LogContentBrowser: End creating deferred item NewMaterial
+[2025.10.29-13.19.58:982][714]LogStreaming: Display: FlushAsyncLoading(403): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.29-13.19.59:307][714]LogInterchangeEngine: [Pending] Importing
+[2025.10.29-13.19.59:307][714]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/s4203496/Documents/GitHub/AED/Textures/Planks/1x1 Plane for texture_DefaultMaterial_BaseColor.png]
+[2025.10.29-13.19.59:308][714]LogInterchangeEngine: [Pending] Importing -  (2)
+[2025.10.29-13.19.59:308][714]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/s4203496/Documents/GitHub/AED/Textures/Planks/1x1 Plane for texture_DefaultMaterial_Height.png]
+[2025.10.29-13.19.59:308][714]LogInterchangeEngine: [Pending] Importing -  (3)
+[2025.10.29-13.19.59:308][714]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/s4203496/Documents/GitHub/AED/Textures/Planks/1x1 Plane for texture_DefaultMaterial_Metallic.png]
+[2025.10.29-13.19.59:309][714]LogInterchangeEngine: [Pending] Importing -  (4)
+[2025.10.29-13.19.59:309][714]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/s4203496/Documents/GitHub/AED/Textures/Planks/1x1 Plane for texture_DefaultMaterial_Normal.png]
+[2025.10.29-13.19.59:309][714]LogInterchangeEngine: [Pending] Importing -  (5)
+[2025.10.29-13.19.59:309][714]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/s4203496/Documents/GitHub/AED/Textures/Planks/1x1 Plane for texture_DefaultMaterial_Roughness.png]
+[2025.10.29-13.19.59:738][716]LogStreaming: Display: FlushAsyncLoading(440): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.29-13.20.00:054][717]LogInterchangePipeline: Display: Auto-detected normal map
+[2025.10.29-13.20.00:121][718]LogInterchangeEngine: Display: Interchange import completed [C:/Users/s4203496/Do.../AED/Textures/Planks/1x1 Plane for texture_DefaultMaterial_BaseColor.png]
+[2025.10.29-13.20.00:121][718]LogInterchangeEngine: [Pending] Importing -  (4)
+[2025.10.29-13.20.00:121][718]LogInterchangeEngine: Display: Interchange import completed [C:/Users/s4203496/Do.../AED/Textures/Planks/1x1 Plane for texture_DefaultMaterial_Height.png]
+[2025.10.29-13.20.00:121][718]LogInterchangeEngine: [Pending] Importing -  (3)
+[2025.10.29-13.20.00:121][718]LogInterchangeEngine: Display: Interchange import completed [C:/Users/s4203496/Do.../AED/Textures/Planks/1x1 Plane for texture_DefaultMaterial_Metallic.png]
+[2025.10.29-13.20.00:121][718]LogInterchangeEngine: [Pending] Importing -  (2)
+[2025.10.29-13.20.00:121][718]LogInterchangeEngine: Display: Interchange import completed [C:/Users/s4203496/Do.../AED/Textures/Planks/1x1 Plane for texture_DefaultMaterial_Normal.png]
+[2025.10.29-13.20.00:121][718]LogInterchangeEngine: [Pending] Importing -  (1)
+[2025.10.29-13.20.00:196][719]LogInterchangeEngine: Display: Interchange import completed [C:/Users/s4203496/Do.../AED/Textures/Planks/1x1 Plane for texture_DefaultMaterial_Roughness.png]
+[2025.10.29-13.20.00:203][719]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.10.29-13.20.00:203][719]LogInterchangeEngine: [Success] Import Done
+[2025.10.29-13.20.08:063][945]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Materials/Planks.Planks
+[2025.10.29-13.20.08:067][945]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_2
+[2025.10.29-13.20.08:080][945]LogStreaming: Display: FlushAsyncLoading(445): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.29-13.20.08:613][945]MaterialEditorStats: Texture samplers: 0/16
+[2025.10.29-13.20.08:613][945]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.10.29-13.20.08:613][945]MaterialEditorStats: Shader Count: 0
+[2025.10.29-13.20.08:613][945]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.10.29-13.20.08:630][945]LogSlate: Took 0.007328 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.10.29-13.20.08:775][947]MaterialEditorStats: Base pass shader: 171 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.10.29-13.20.08:775][947]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.10.29-13.20.08:775][947]MaterialEditorStats: Texture samplers: 1/16
+[2025.10.29-13.20.08:775][947]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.10.29-13.20.08:775][947]MaterialEditorStats: Shader Count: 4
+[2025.10.29-13.20.08:775][947]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.10.29-13.20.15:850][280]MaterialEditorStats: Texture samplers: 0/16
+[2025.10.29-13.20.15:850][280]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.10.29-13.20.15:850][280]MaterialEditorStats: Shader Count: 0
+[2025.10.29-13.20.15:850][280]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.10.29-13.20.16:362][283]MaterialEditorStats: Base pass shader: 171 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.10.29-13.20.16:362][283]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.10.29-13.20.16:362][283]MaterialEditorStats: Texture samplers: 1/16
+[2025.10.29-13.20.16:362][283]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.10.29-13.20.16:362][283]MaterialEditorStats: Shader Count: 4
+[2025.10.29-13.20.16:362][283]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.10.29-13.20.17:979][370]MaterialEditorStats: Texture samplers: 0/16
+[2025.10.29-13.20.17:979][370]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2025.10.29-13.20.17:979][370]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.10.29-13.20.17:979][370]MaterialEditorStats: Shader Count: 0
+[2025.10.29-13.20.17:979][370]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.10.29-13.20.18:229][372]MaterialEditorStats: Base pass shader: 178 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 2
+Sampler Limit: 32
+
+[2025.10.29-13.20.18:229][372]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.10.29-13.20.18:229][372]MaterialEditorStats: Texture samplers: 2/16
+[2025.10.29-13.20.18:229][372]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2025.10.29-13.20.18:229][372]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.10.29-13.20.18:229][372]MaterialEditorStats: Shader Count: 4
+[2025.10.29-13.20.18:229][372]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.10.29-13.20.22:904][599]MaterialEditorStats: Texture samplers: 0/16
+[2025.10.29-13.20.22:904][599]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2025.10.29-13.20.22:904][599]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.10.29-13.20.22:904][599]MaterialEditorStats: Shader Count: 0
+[2025.10.29-13.20.22:904][599]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.10.29-13.20.23:037][602]MaterialEditorStats: Base pass shader: 178 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 2
+Sampler Limit: 32
+
+[2025.10.29-13.20.23:037][602]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.10.29-13.20.23:038][602]MaterialEditorStats: Texture samplers: 2/16
+[2025.10.29-13.20.23:038][602]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2025.10.29-13.20.23:038][602]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.10.29-13.20.23:038][602]MaterialEditorStats: Shader Count: 4
+[2025.10.29-13.20.23:038][602]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.10.29-13.20.29:467][ 80]MaterialEditorStats: Texture samplers: 0/16
+[2025.10.29-13.20.29:467][ 80]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2025.10.29-13.20.29:467][ 80]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.10.29-13.20.29:467][ 80]MaterialEditorStats: Shader Count: 0
+[2025.10.29-13.20.29:467][ 80]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.10.29-13.20.29:623][ 83]MaterialEditorStats: Base pass shader: 182 instructions
+Stats: Resources Used: 6
+Resource Limit: 64
+Samplers Used: 3
+Sampler Limit: 32
+
+[2025.10.29-13.20.29:623][ 83]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.10.29-13.20.29:623][ 83]MaterialEditorStats: Texture samplers: 3/16
+[2025.10.29-13.20.29:623][ 83]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2025.10.29-13.20.29:623][ 83]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.10.29-13.20.29:623][ 83]MaterialEditorStats: Shader Count: 4
+[2025.10.29-13.20.29:623][ 83]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.10.29-13.20.31:740][215]MaterialEditorStats: Texture samplers: 0/16
+[2025.10.29-13.20.31:740][215]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2025.10.29-13.20.31:740][215]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.10.29-13.20.31:740][215]MaterialEditorStats: Shader Count: 0
+[2025.10.29-13.20.31:740][215]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.10.29-13.20.32:193][218]MaterialEditorStats: Base pass shader: 182 instructions
+Stats: Resources Used: 6
+Resource Limit: 64
+Samplers Used: 3
+Sampler Limit: 32
+
+[2025.10.29-13.20.32:193][218]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.10.29-13.20.32:193][218]MaterialEditorStats: Texture samplers: 3/16
+[2025.10.29-13.20.32:193][218]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2025.10.29-13.20.32:193][218]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.10.29-13.20.32:193][218]MaterialEditorStats: Shader Count: 4
+[2025.10.29-13.20.32:193][218]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.10.29-13.20.36:338][531]MaterialEditorStats: Texture samplers: 0/16
+[2025.10.29-13.20.36:338][531]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.10.29-13.20.36:338][531]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.10.29-13.20.36:338][531]MaterialEditorStats: Shader Count: 0
+[2025.10.29-13.20.36:338][531]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.10.29-13.20.36:639][533]MaterialEditorStats: Base pass shader: 184 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 4
+Sampler Limit: 32
+
+[2025.10.29-13.20.36:640][533]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.10.29-13.20.36:640][533]MaterialEditorStats: Texture samplers: 4/16
+[2025.10.29-13.20.36:640][533]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.10.29-13.20.36:640][533]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.10.29-13.20.36:640][533]MaterialEditorStats: Shader Count: 4
+[2025.10.29-13.20.36:640][533]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.10.29-13.20.39:597][741]MaterialEditorStats: Texture samplers: 0/16
+[2025.10.29-13.20.39:597][741]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.10.29-13.20.39:597][741]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.10.29-13.20.39:597][741]MaterialEditorStats: Shader Count: 0
+[2025.10.29-13.20.39:597][741]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.10.29-13.20.39:730][744]MaterialEditorStats: Base pass shader: 184 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 4
+Sampler Limit: 32
+
+[2025.10.29-13.20.39:731][744]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.10.29-13.20.39:731][744]MaterialEditorStats: Texture samplers: 4/16
+[2025.10.29-13.20.39:731][744]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.10.29-13.20.39:731][744]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.10.29-13.20.39:731][744]MaterialEditorStats: Shader Count: 4
+[2025.10.29-13.20.39:731][744]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.10.29-13.20.41:761][879]MaterialEditorStats: Texture samplers: 0/16
+[2025.10.29-13.20.41:761][879]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2025.10.29-13.20.41:761][879]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.10.29-13.20.41:761][879]MaterialEditorStats: Shader Count: 0
+[2025.10.29-13.20.41:761][879]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.10.29-13.20.41:893][882]MaterialEditorStats: Base pass shader: 192 instructions
+Stats: Resources Used: 8
+Resource Limit: 64
+Samplers Used: 5
+Sampler Limit: 32
+
+[2025.10.29-13.20.41:893][882]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.10.29-13.20.41:893][882]MaterialEditorStats: Texture samplers: 5/16
+[2025.10.29-13.20.41:893][882]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2025.10.29-13.20.41:893][882]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.10.29-13.20.41:893][882]MaterialEditorStats: Shader Count: 4
+[2025.10.29-13.20.41:893][882]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.10.29-13.20.43:666][934]LogMaterialEditor: Saving and Compiling material Planks
+[2025.10.29-13.20.43:761][934]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2025.10.29-13.20.43:967][934]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2025.10.29-13.20.43:979][934]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.29-13.20.44:039][934]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/Planks] ([1] browsable assets)...
+[2025.10.29-13.20.44:162][934]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Materials/Planks.Planks]
+[2025.10.29-13.20.44:162][934]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/Planks]
+[2025.10.29-13.20.44:162][934]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Planks" FILE="../../../../../../Users/s4203496/Documents/GitHub/AED/Project-File/Content/Materials/Planks.uasset" SILENT=true
+[2025.10.29-13.20.44:172][934]LogSavePackage: Moving output files for package: /Game/Materials/Planks
+[2025.10.29-13.20.44:172][934]LogSavePackage: Moving '../../../../../../Users/s4203496/Documents/GitHub/AED/Project-File/Saved/Planks92F80B0C4F7ABE11E1609EB9BC805306.tmp' to '../../../../../../Users/s4203496/Documents/GitHub/AED/Project-File/Content/Materials/Planks.uasset'
+[2025.10.29-13.20.44:182][934]LogFileHelpers: InternalPromptForCheckoutAndSave took 202.581 ms
+[2025.10.29-13.20.44:223][934]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.29-13.20.44:223][934]LogContentValidation: Enabled validators:
+[2025.10.29-13.20.44:223][934]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.29-13.20.44:223][934]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.29-13.20.44:223][934]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.29-13.20.44:223][934]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.29-13.20.44:223][934]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.29-13.20.44:223][934]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.29-13.20.44:223][934]AssetCheck: /Game/Materials/Planks Validating asset
+[2025.10.29-13.20.44:244][934]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/s4203496/Documents/GitHub/AED/Project-File/Saved/SourceControl/UncontrolledChangelists.json
+[2025.10.29-13.20.45:204][962]LogSlate: Window 'Planks' being destroyed
+[2025.10.29-13.20.45:212][962]LogSlate: Window 'Planks' being destroyed
+[2025.10.29-13.20.45:228][962]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2025.10.29-13.20.45:228][962]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.29-13.20.45:251][962]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2025.10.29-13.20.55:292][409]LogMaterial: Display: Material /Game/Materials/Planks.Planks needed to have new flag set bUsedWithNanite !
+[2025.10.29-13.21.04:427][772]Cmd: TRANSACTION UNDO
+[2025.10.29-13.21.04:427][772]LogEditorTransaction: Undo Replace component used material
+[2025.10.29-13.21.10:585][970]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1017.549561
+[2025.10.29-13.21.10:770][975]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.29-13.21.10:770][975]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1017.688171, Update Interval: 345.303497
+[2025.10.29-13.21.48:316][112]Cmd: DELETE
+[2025.10.29-13.21.48:385][112]Cmd: ACTOR DELETE
+[2025.10.29-13.21.48:416][112]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.29-13.21.48:427][112]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2025.10.29-13.21.48:431][112]LogEditorActor: Deleted 1 Actors (0.045 secs)
+[2025.10.29-13.21.49:589][152]Cmd: DELETE
+[2025.10.29-13.21.49:589][152]Cmd: ACTOR DELETE
+[2025.10.29-13.21.49:616][152]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.29-13.21.49:629][152]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2025.10.29-13.21.49:631][152]LogEditorActor: Deleted 1 Actors (0.042 secs)
+[2025.10.29-13.23.04:453][988]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.29-13.23.04:646][988]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Environment" FILE="../../../../../../Users/s4203496/Documents/GitHub/AED/Project-File/Content/Environment.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.10.29-13.23.04:675][988]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2025.10.29-13.23.08:071][988]LogSavePackage: Moving output files for package: /Game/Environment
+[2025.10.29-13.23.08:072][988]LogSavePackage: Moving '../../../../../../Users/s4203496/Documents/GitHub/AED/Project-File/Saved/Environment779D7C5E4E13E4032E66DF9CC866DE9C.tmp' to '../../../../../../Users/s4203496/Documents/GitHub/AED/Project-File/Content/Environment.umap'
+[2025.10.29-13.23.08:087][988]LogFileHelpers: Saving map 'Environment' took 3.441
+[2025.10.29-13.23.08:094][988]LogFileHelpers: InternalPromptForCheckoutAndSave took 3.64 sec (total: 3.84 sec)
+[2025.10.29-13.23.08:135][988]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.29-13.23.08:135][988]LogContentValidation: Enabled validators:
+[2025.10.29-13.23.08:135][988]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.29-13.23.08:135][988]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.29-13.23.08:135][988]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.29-13.23.08:135][988]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.29-13.23.08:135][988]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.29-13.23.08:135][988]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.29-13.23.08:135][988]AssetCheck: /Game/Environment Validating asset
+[2025.10.29-13.23.16:716][102]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.29-13.23.16:824][102]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Materials/Planks] ([1] browsable assets)...
+[2025.10.29-13.23.16:824][102]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/Planks]
+[2025.10.29-13.23.16:824][102]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Planks" FILE="../../../../../../Users/s4203496/Documents/GitHub/AED/Project-File/Content/Materials/Planks.uasset" SILENT=true
+[2025.10.29-13.23.16:835][102]LogSavePackage: Moving output files for package: /Game/Materials/Planks
+[2025.10.29-13.23.16:835][102]LogSavePackage: Moving '../../../../../../Users/s4203496/Documents/GitHub/AED/Project-File/Saved/PlanksBAB6044D458945D7BC1FEC97E9386CB2.tmp' to '../../../../../../Users/s4203496/Documents/GitHub/AED/Project-File/Content/Materials/Planks.uasset'
+[2025.10.29-13.23.16:843][102]LogFileHelpers: InternalPromptForCheckoutAndSave took 126.736 ms (total: 3.96 sec)
+[2025.10.29-13.23.16:902][102]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.29-13.23.16:902][102]LogContentValidation: Enabled validators:
+[2025.10.29-13.23.16:902][102]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.29-13.23.16:902][102]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.29-13.23.16:902][102]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.29-13.23.16:902][102]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.29-13.23.16:902][102]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.29-13.23.16:902][102]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.29-13.23.16:902][102]AssetCheck: /Game/Materials/Planks Validating asset
+[2025.10.29-13.23.19:556][120]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2025.10.29-13.23.36:453][120]LogSlate: Window 'Save Content' being destroyed
+[2025.10.29-13.23.36:468][120]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.29-13.23.36:521][120]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/Planks/1x1_Plane_for_texture_DefaultMaterial_BaseColor] ([1] browsable assets)...
+[2025.10.29-13.23.36:522][120]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Materials/Planks/1x1_Plane_for_texture_DefaultMaterial_BaseColor.1x1_Plane_for_texture_DefaultMaterial_BaseColor]
+[2025.10.29-13.23.36:522][120]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/Planks/1x1_Plane_for_texture_DefaultMaterial_BaseColor]
+[2025.10.29-13.23.36:568][120]LogSavePackage: Moving output files for package: /Game/Materials/Planks/1x1_Plane_for_texture_DefaultMaterial_BaseColor
+[2025.10.29-13.23.36:568][120]LogSavePackage: Moving '../../../../../../Users/s4203496/Documents/GitHub/AED/Project-File/Saved/1x1_Plane_for_texture_DefaultMat96CE898B4E538244F44AC3AC8AA69690.tmp' to '../../../../../../Users/s4203496/Documents/GitHub/AED/Project-File/Content/Materials/Planks/1x1_Plane_for_texture_DefaultMaterial_BaseColor.uasset'
+[2025.10.29-13.23.36:569][120]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/Planks/1x1_Plane_for_texture_DefaultMaterial_Height] ([1] browsable assets)...
+[2025.10.29-13.23.36:571][120]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Materials/Planks/1x1_Plane_for_texture_DefaultMaterial_Height.1x1_Plane_for_texture_DefaultMaterial_Height]
+[2025.10.29-13.23.36:571][120]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/Planks/1x1_Plane_for_texture_DefaultMaterial_Height]
+[2025.10.29-13.23.36:588][120]LogSavePackage: Moving output files for package: /Game/Materials/Planks/1x1_Plane_for_texture_DefaultMaterial_Height
+[2025.10.29-13.23.36:588][120]LogSavePackage: Moving '../../../../../../Users/s4203496/Documents/GitHub/AED/Project-File/Saved/1x1_Plane_for_texture_DefaultMat32A382814F51530EF76779B98D50D6DB.tmp' to '../../../../../../Users/s4203496/Documents/GitHub/AED/Project-File/Content/Materials/Planks/1x1_Plane_for_texture_DefaultMaterial_Height.uasset'
+[2025.10.29-13.23.36:589][120]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/Planks/1x1_Plane_for_texture_DefaultMaterial_Metallic] ([1] browsable assets)...
+[2025.10.29-13.23.36:591][120]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Materials/Planks/1x1_Plane_for_texture_DefaultMaterial_Metallic.1x1_Plane_for_texture_DefaultMaterial_Metallic]
+[2025.10.29-13.23.36:592][120]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/Planks/1x1_Plane_for_texture_DefaultMaterial_Metallic]
+[2025.10.29-13.23.36:603][120]LogSavePackage: Moving output files for package: /Game/Materials/Planks/1x1_Plane_for_texture_DefaultMaterial_Metallic
+[2025.10.29-13.23.36:603][120]LogSavePackage: Moving '../../../../../../Users/s4203496/Documents/GitHub/AED/Project-File/Saved/1x1_Plane_for_texture_DefaultMatFA1AABEF46362F6EE899ABB5CE5F98E3.tmp' to '../../../../../../Users/s4203496/Documents/GitHub/AED/Project-File/Content/Materials/Planks/1x1_Plane_for_texture_DefaultMaterial_Metallic.uasset'
+[2025.10.29-13.23.36:604][120]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/Planks/1x1_Plane_for_texture_DefaultMaterial_Normal] ([1] browsable assets)...
+[2025.10.29-13.23.36:606][120]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Materials/Planks/1x1_Plane_for_texture_DefaultMaterial_Normal.1x1_Plane_for_texture_DefaultMaterial_Normal]
+[2025.10.29-13.23.36:606][120]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/Planks/1x1_Plane_for_texture_DefaultMaterial_Normal]
+[2025.10.29-13.23.36:642][120]LogSavePackage: Moving output files for package: /Game/Materials/Planks/1x1_Plane_for_texture_DefaultMaterial_Normal
+[2025.10.29-13.23.36:643][120]LogSavePackage: Moving '../../../../../../Users/s4203496/Documents/GitHub/AED/Project-File/Saved/1x1_Plane_for_texture_DefaultMatD0287AD5482E35B1F201C38C023E3B38.tmp' to '../../../../../../Users/s4203496/Documents/GitHub/AED/Project-File/Content/Materials/Planks/1x1_Plane_for_texture_DefaultMaterial_Normal.uasset'
+[2025.10.29-13.23.36:643][120]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/Planks/1x1_Plane_for_texture_DefaultMaterial_Roughness] ([1] browsable assets)...
+[2025.10.29-13.23.36:646][120]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Materials/Planks/1x1_Plane_for_texture_DefaultMaterial_Roughness.1x1_Plane_for_texture_DefaultMaterial_Roughness]
+[2025.10.29-13.23.36:646][120]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/Planks/1x1_Plane_for_texture_DefaultMaterial_Roughness]
+[2025.10.29-13.23.36:664][120]LogSavePackage: Moving output files for package: /Game/Materials/Planks/1x1_Plane_for_texture_DefaultMaterial_Roughness
+[2025.10.29-13.23.36:664][120]LogSavePackage: Moving '../../../../../../Users/s4203496/Documents/GitHub/AED/Project-File/Saved/1x1_Plane_for_texture_DefaultMatB12A82C145B3552A3C8E2FB0A594905F.tmp' to '../../../../../../Users/s4203496/Documents/GitHub/AED/Project-File/Content/Materials/Planks/1x1_Plane_for_texture_DefaultMaterial_Roughness.uasset'
+[2025.10.29-13.23.36:678][120]LogFileHelpers: InternalPromptForCheckoutAndSave took 210.167 ms (total: 4.17 sec)
+[2025.10.29-13.23.36:708][120]LogStall: Shutdown...
+[2025.10.29-13.23.36:708][120]LogStall: Shutdown complete.
+[2025.10.29-13.23.36:734][120]LogSlate: Window 'MyProject2 - Unreal Editor' being destroyed
+[2025.10.29-13.23.36:736][120]LogWindowsTextInputMethodSystem: Activated input method: English (United Kingdom) - (Keyboard).
+[2025.10.29-13.23.36:782][120]LogContentValidation: Display: Starting to validate 5 assets
+[2025.10.29-13.23.36:783][120]LogContentValidation: Enabled validators:
+[2025.10.29-13.23.36:783][120]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.29-13.23.36:783][120]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.29-13.23.36:783][120]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.29-13.23.36:783][120]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.29-13.23.36:783][120]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.29-13.23.36:783][120]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.29-13.23.36:783][120]AssetCheck: /Game/Materials/Planks/1x1_Plane_for_texture_DefaultMaterial_BaseColor Validating asset
+[2025.10.29-13.23.36:783][120]AssetCheck: /Game/Materials/Planks/1x1_Plane_for_texture_DefaultMaterial_Height Validating asset
+[2025.10.29-13.23.36:783][120]AssetCheck: /Game/Materials/Planks/1x1_Plane_for_texture_DefaultMaterial_Metallic Validating asset
+[2025.10.29-13.23.36:783][120]AssetCheck: /Game/Materials/Planks/1x1_Plane_for_texture_DefaultMaterial_Normal Validating asset
+[2025.10.29-13.23.36:783][120]AssetCheck: /Game/Materials/Planks/1x1_Plane_for_texture_DefaultMaterial_Roughness Validating asset
+[2025.10.29-13.23.36:785][120]Cmd: QUIT_EDITOR
+[2025.10.29-13.23.36:785][120]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2025.10.29-13.23.36:823][120]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/s4203496/Documents/GitHub/AED/Project-File/Saved/SourceControl/UncontrolledChangelists.json
+[2025.10.29-13.23.36:829][121]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2025.10.29-13.23.36:830][121]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2025.10.29-13.23.36:830][121]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2025.10.29-13.23.36:840][121]LogWorld: UWorld::CleanupWorld for Environment, bSessionEnded=true, bCleanupResources=true
+[2025.10.29-13.23.36:840][121]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.29-13.23.36:846][121]LogStylusInput: Shutting down StylusInput subsystem.
+[2025.10.29-13.23.36:846][121]LogTedsSettings: UTedsSettingsEditorSubsystem::Deinitialize
+[2025.10.29-13.23.36:846][121]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2025.10.29-13.23.36:848][121]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2025.10.29-13.23.36:848][121]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.29-13.23.36:848][121]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2025.10.29-13.23.36:848][121]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.29-13.23.36:848][121]LogRuntimeTelemetry: Recording EnginePreExit events
+[2025.10.29-13.23.36:848][121]LogStudioTelemetry: Ended StudioTelemetry Session
+[2025.10.29-13.23.36:856][121]LogAnalytics: Display: [UEEditor.Rocket.Release] AnalyticsET::EndSession
+[2025.10.29-13.23.36:857][121]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2025.10.29-13.23.36:858][121]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2025.10.29-13.23.36:858][121]LogAudio: Display: Audio Device unregistered from world 'Environment'.
+[2025.10.29-13.23.36:858][121]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2025.10.29-13.23.36:858][121]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=4
+[2025.10.29-13.23.36:859][121]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=2
+[2025.10.29-13.23.36:863][121]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2025.10.29-13.23.36:863][121]LogAudio: Display: Audio Device Manager Shutdown
+[2025.10.29-13.23.36:868][121]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2025.10.29-13.23.36:869][121]LogExit: Preparing to exit.
+[2025.10.29-13.23.36:898][121]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2025.10.29-13.23.37:237][121]LogEditorDataStorage: Deinitializing
+[2025.10.29-13.23.37:321][121]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2025.10.29-13.23.37:332][121]LogExit: Editor shut down
+[2025.10.29-13.23.37:333][121]LogExit: Transaction tracking system shut down
+[2025.10.29-13.23.37:453][121]LogExit: Object subsystem successfully closed.
+[2025.10.29-13.23.37:501][121]LogShaderCompilers: Display: Shaders left to compile 0
+[2025.10.29-13.23.37:605][121]LogMemoryProfiler: Shutdown
+[2025.10.29-13.23.37:605][121]LogNetworkingProfiler: Shutdown
+[2025.10.29-13.23.37:605][121]LoadingProfiler: Shutdown
+[2025.10.29-13.23.37:605][121]LogTimingProfiler: Shutdown
+[2025.10.29-13.23.37:605][121]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDGenericDebugDrawExtension] ...
+[2025.10.29-13.23.37:605][121]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDAccelerationStructuresExtension] ...
+[2025.10.29-13.23.37:874][121]LogChaosDD: Chaos Debug Draw Shutdown
+[2025.10.29-13.23.37:908][121]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2025.10.29-13.23.37:908][121]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA1879F16-46D4-5D6F-0BC8-50A6D01B5C6C%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.0-43139311%2B%2B%2BUE5%2BRelease-5.6&UserID=71ac8ee1403cdd28a78aedb0d999cf18%7C%7C745d0bf4-476f-42d2-aff9-43f0b62f68ac&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2025.10.29-13.23.38:475][121]LogEOSShared: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2025.10.29-13.23.38:475][121]LogNFORDenoise: NFORDenoise function shutting down
+[2025.10.29-13.23.38:475][121]RenderDocPlugin: plugin has been unloaded.
+[2025.10.29-13.23.38:482][121]LogXGEController: Cleaning working directory: C:/Users/s4203496/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2025.10.29-13.23.38:483][121]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2025.10.29-13.23.38:483][121]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2025.10.29-13.23.38:483][121]LogPakFile: Destroying PakPlatformFile
+[2025.10.29-13.23.39:825][121]LogD3D12RHI: ~FD3D12DynamicRHI
+[2025.10.29-13.23.39:905][121]LogExit: Exiting.
+[2025.10.29-13.23.39:918][121]Log file closed, 10/29/25 13:23:39
