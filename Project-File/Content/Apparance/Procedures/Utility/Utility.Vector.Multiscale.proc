@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Procedure Version="5" type="714A9E8F">
+    <Inputs>
+        <Input id="1" type="Vector3" name="In" description=""/>
+        <Input id="2" type="Float" name="X Scale" description="|Default=1"/>
+        <Input id="3" type="Float" name="Y Scale" description="|Default=1"/>
+        <Input id="4" type="Float" name="Z Scale" description="|Default=1"/>
+    </Inputs>
+    <Constants/>
+    <Operators>
+        <Operator id="1" type="D233A94E">
+            <Connect in="100" input="1"/>
+        </Operator>
+        <Operator id="2" type="D2698D20">
+            <Connect in="100" to="3" out="100"/>
+            <Connect in="101" to="4" out="100"/>
+            <Connect in="102" to="5" out="100"/>
+        </Operator>
+        <Operator id="3" type="971515D0">
+            <Connect in="100" to="1" out="100"/>
+            <Connect in="101" input="2"/>
+        </Operator>
+        <Operator id="4" type="971515D0">
+            <Connect in="100" to="1" out="101"/>
+            <Connect in="101" input="3"/>
+        </Operator>
+        <Operator id="5" type="971515D0">
+            <Connect in="100" to="1" out="102"/>
+            <Connect in="101" input="4"/>
+        </Operator>
+    </Operators>
+    <Outputs>
+        <Output id="1" type="Vector3" name="Out" description="" to="2" out="100"/>
+    </Outputs>
+</Procedure>

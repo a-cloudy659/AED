@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<Procedure Version="5" type="09290667">
+    <Inputs>
+        <Input id="1" type="Integer" name="#" description=""/>
+        <Input id="2" type="Integer" name="Probability" description="|Default=50|Min=0|Max=100"/>
+    </Inputs>
+    <Constants>
+        <Constant id="-2" type="Integer">0</Constant>
+        <Constant id="-3" type="Integer">100</Constant>
+    </Constants>
+    <Operators>
+        <Operator id="1" type="AC2F6398">
+            <Connect in="100" input="1"/>
+            <Connect in="101" constant="-2"/>
+            <Connect in="102" constant="-3"/>
+        </Operator>
+        <Operator id="3" type="B4B7AC74">
+            <Connect in="100" to="1" out="101"/>
+            <Connect in="101" input="2"/>
+        </Operator>
+    </Operators>
+    <Outputs>
+        <Output id="1" type="Integer" name="#" description="" to="1" out="100"/>
+        <Output id="2" type="Bool" name="True?" description="" to="3" out="100"/>
+    </Outputs>
+</Procedure>

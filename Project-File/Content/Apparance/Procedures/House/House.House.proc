@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<Procedure Version="5" type="2A4700DF">
+    <Inputs>
+        <Input id="1" type="FColour" name="Colour" description="|Default=[0.2325581,1,0.1976744,1]"/>
+    </Inputs>
+    <Constants>
+        <Constant id="-1" type="Frame">[0,0,0][1,0,0][0,1,0][0,0,1][1,1,1]</Constant>
+    </Constants>
+    <Operators>
+        <Operator id="1" type="8CC08944">
+            <Connect in="1" constant="-1"/>
+            <Connect in="2" input="1"/>
+        </Operator>
+    </Operators>
+    <Outputs>
+        <Output id="1" type="ModelSegment" name="" description="" to="1" out="1"/>
+    </Outputs>
+</Procedure>
