@@ -1,13 +1,13 @@
 <ProcedureEditData version="1">
   <View>
-    <Centre>382.9622,167.756</Centre>
-    <Zoom>0.8264465</Zoom>
+    <Centre>465.0849,167.756</Centre>
+    <Zoom>0.7513152</Zoom>
   </View>
   <Procedure>
     <Category>House</Category>
     <DisplayName>House</DisplayName>
     <Description>Procedural House</Description>
-    <TopLeft>-159.0742,-59.7</TopLeft>
+    <TopLeft>-159.0742,-90.25088</TopLeft>
     <BottomRight>699.8829,405.8003</BottomRight>
   </Procedure>
   <Objects>
@@ -28,7 +28,7 @@
       <InputMetadata />
     </Object>
     <Object type="ProcedureOperatorState" id="3">
-      <Location>392.4006,6.600303</Location>
+      <Location>306.0185,-40.25088</Location>
       <Size>77.85,52.2</Size>
       <NoteID>0</NoteID>
       <Comment>
@@ -52,7 +52,7 @@
       <InputMetadata />
     </Object>
     <Object type="ProcedureOperatorState" id="6">
-      <Location>424.6002,88.40002</Location>
+      <Location>373.7802,84.77003</Location>
       <Size>77.85,52.2</Size>
       <NoteID>0</NoteID>
       <Comment>
@@ -69,7 +69,7 @@
     </Object>
     <Object type="ProcedureOperatorState" id="8">
       <Location>303.2441,180.1169</Location>
-      <Size>119.41,52.2</Size>
+      <Size>10,26.28</Size>
       <NoteID>0</NoteID>
       <Comment>
       </Comment>
@@ -97,6 +97,14 @@
           </Data>
         </Input>
       </InputMetadata>
+    </Object>
+    <Object type="ProcedureOperatorState" id="10">
+      <Location>379,160</Location>
+      <Size>119.41,52.2</Size>
+      <NoteID>0</NoteID>
+      <Comment>
+      </Comment>
+      <InputMetadata />
     </Object>
     <Object type="ProcedureInputState" id="1">
       <Name>Colour</Name>
