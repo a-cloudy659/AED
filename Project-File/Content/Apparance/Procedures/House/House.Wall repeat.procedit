@@ -1,7 +1,7 @@
 <ProcedureEditData version="1">
   <View>
-    <Centre>467.2327,228.993</Centre>
-    <Zoom>0.7513149</Zoom>
+    <Centre>467.3935,309.6966</Centre>
+    <Zoom>0.9090912</Zoom>
   </View>
   <Procedure>
     <Category>House</Category>
@@ -44,7 +44,7 @@
       <InputMetadata />
     </Object>
     <Object type="ProcedureOperatorState" id="5">
-      <Location>422.662,397.5361</Location>
+      <Location>422.662,365.636</Location>
       <Size>95.62334,39.28</Size>
       <NoteID>0</NoteID>
       <Comment>
@@ -54,6 +54,14 @@
     <Object type="ProcedureOperatorState" id="6">
       <Location>437.317,281.669</Location>
       <Size>77.85,52.2</Size>
+      <NoteID>0</NoteID>
+      <Comment>
+      </Comment>
+      <InputMetadata />
+    </Object>
+    <Object type="ProcedureOperatorState" id="7">
+      <Location>423,416</Location>
+      <Size>81.99333,39.28</Size>
       <NoteID>0</NoteID>
       <Comment>
       </Comment>
@@ -85,4 +93,18 @@
     <Look>0,0,0</Look>
     <Interest>0</Interest>
   </Camera>
+  <DefaultInputs>
+    <Input id="1">
+      <Value type="1835102790" value="[0,0,0][1,0,0][0,1,0][0,0,1][1,1,1]" />
+      <Metadata />
+    </Input>
+    <Input id="2">
+      <Value type="842221856" value="0" />
+      <Metadata />
+    </Input>
+    <Input id="3">
+      <Value type="842221088" value="0" />
+      <Metadata />
+    </Input>
+  </DefaultInputs>
 </ProcedureEditData>
