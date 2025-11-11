@@ -2,6 +2,7 @@
 <Procedure Version="5" type="DA486B65">
     <Inputs>
         <Input id="1" type="Frame" name="Frame" description=""/>
+        <Input id="2" type="Float" name="Spacer Size" description=""/>
     </Inputs>
     <Constants>
         <Constant id="-2" type="Float">0.500000</Constant>
@@ -49,15 +50,19 @@
         </Operator>
         <Operator id="8" type="DA48BB6A">
             <Connect in="1" to="13" out="100"/>
+            <Connect in="2" input="2"/>
         </Operator>
         <Operator id="9" type="DA48BB6A">
             <Connect in="1" to="14" out="100"/>
+            <Connect in="2" input="2"/>
         </Operator>
         <Operator id="10" type="DA48BB6A">
             <Connect in="1" to="15" out="100"/>
+            <Connect in="2" input="2"/>
         </Operator>
         <Operator id="11" type="DA48BB6A">
             <Connect in="1" to="5" out="102"/>
+            <Connect in="2" input="2"/>
         </Operator>
         <Operator id="12" type="EBC5C37C">
             <Connect in="100" constant="-27"/>

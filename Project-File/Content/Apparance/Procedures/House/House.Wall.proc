@@ -10,6 +10,7 @@
         <Constant id="-7" type="Bool">False</Constant>
         <Constant id="-8" type="Bool">True</Constant>
         <Constant id="-9" type="Float">3.000000</Constant>
+        <Constant id="-10" type="Float">0.000000</Constant>
     </Constants>
     <Operators>
         <Operator id="1" type="C22F65F7">
@@ -19,6 +20,7 @@
             <Connect in="1" input="1"/>
             <Connect in="2" to="3" out="1"/>
             <Connect in="3" constant="-9"/>
+            <Connect in="4" constant="-10"/>
         </Operator>
         <Operator id="3" type="0662B77B">
             <Connect in="1" constant="-4"/>

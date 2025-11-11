@@ -4,10 +4,10 @@
         <Input id="1" type="Frame" name="Frame" description=""/>
         <Input id="2" type="Integer" name="Select" description=""/>
         <Input id="3" type="Float" name="Object Size" description=""/>
+        <Input id="4" type="Float" name="Spacer Size" description=""/>
     </Inputs>
     <Constants>
         <Constant id="-3" type="Integer">0</Constant>
-        <Constant id="-5" type="Float">1.000000</Constant>
         <Constant id="-6" type="Float">1.000000</Constant>
         <Constant id="-7" type="Float">1.000000</Constant>
         <Constant id="-8" type="Integer">0</Constant>
@@ -23,7 +23,7 @@
             <Connect in="2" input="2"/>
             <Connect in="3" constant="-3"/>
             <Connect in="4" input="3"/>
-            <Connect in="5" constant="-5"/>
+            <Connect in="5" input="4"/>
             <Connect in="6" constant="-6"/>
             <Connect in="7" constant="-7"/>
             <Connect in="8" constant="-8"/>
@@ -42,11 +42,13 @@
             <Connect in="1" to="1" out="2"/>
             <Connect in="2" to="1" out="3"/>
             <Connect in="3" input="3"/>
+            <Connect in="4" input="4"/>
         </Operator>
         <Operator id="4" type="7B0FA74B">
             <Connect in="1" to="1" out="4"/>
             <Connect in="2" to="1" out="5"/>
             <Connect in="3" input="3"/>
+            <Connect in="4" input="4"/>
         </Operator>
         <Operator id="5" type="C22F65F7">
             <Connect in="1" constant="-27"/>

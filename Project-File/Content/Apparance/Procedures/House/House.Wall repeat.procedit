@@ -1,7 +1,7 @@
 <ProcedureEditData version="1">
   <View>
-    <Centre>467.3935,309.6966</Centre>
-    <Zoom>0.9090912</Zoom>
+    <Centre>426.5397,230.3867</Centre>
+    <Zoom>0.751315236</Zoom>
   </View>
   <Procedure>
     <Category>House</Category>
@@ -29,7 +29,7 @@
     </Object>
     <Object type="ProcedureOperatorState" id="3">
       <Location>393.112,35.75296</Location>
-      <Size>94.06667,65.16</Size>
+      <Size>94.7,78.12</Size>
       <NoteID>0</NoteID>
       <Comment>
       </Comment>
@@ -37,7 +37,7 @@
     </Object>
     <Object type="ProcedureOperatorState" id="4">
       <Location>395.4781,122.972</Location>
-      <Size>94.06667,65.16</Size>
+      <Size>94.7,78.12</Size>
       <NoteID>0</NoteID>
       <Comment>
       </Comment>
@@ -84,6 +84,11 @@
     </Object>
     <Object type="ProcedureInputState" id="3">
       <Name>Object Size</Name>
+      <Description>
+      </Description>
+    </Object>
+    <Object type="ProcedureInputState" id="4">
+      <Name>Spacer Size</Name>
       <Description>
       </Description>
     </Object>
