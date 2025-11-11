@@ -1,7 +1,7 @@
 <ProcedureEditData version="1">
   <View>
-    <Centre>312.617,156.4589</Centre>
-    <Zoom>0.751314938</Zoom>
+    <Centre>377.617,193.4589</Centre>
+    <Zoom>0.751315057</Zoom>
   </View>
   <Procedure>
     <Category>Building</Category>
@@ -156,6 +156,10 @@
   <DefaultInputs>
     <Input id="1">
       <Value type="1835102790" value="[0,0,0][1,0,0][0,1,0][0,0,1][1,1,1]" />
+      <Metadata />
+    </Input>
+    <Input id="2">
+      <Value type="842221088" value="0" />
       <Metadata />
     </Input>
   </DefaultInputs>

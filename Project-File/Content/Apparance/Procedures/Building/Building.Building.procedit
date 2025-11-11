@@ -1,13 +1,13 @@
 <ProcedureEditData version="1">
   <View>
-    <Centre>547.0449,302.8859</Centre>
-    <Zoom>0.466508061</Zoom>
+    <Centre>545.0383,303.1722</Centre>
+    <Zoom>0.620921433</Zoom>
   </View>
   <Procedure>
     <Category>Building</Category>
     <DisplayName>Building</DisplayName>
     <Description>TODO: Documentation</Description>
-    <TopLeft>-107.9999,-63.57074</TopLeft>
+    <TopLeft>-110.5999,-63.57074</TopLeft>
     <BottomRight>898.1843,804.7014</BottomRight>
   </Procedure>
   <Objects>
@@ -131,7 +131,7 @@
       <InputMetadata />
     </Object>
     <Object type="ProcedureOperatorState" id="14">
-      <Location>92.00014,456.9998</Location>
+      <Location>89.40005,443.7001</Location>
       <Size>71.52666,45.88</Size>
       <NoteID>0</NoteID>
       <Comment>
@@ -201,6 +201,10 @@
           <Value type="842221088" value="2" />
         </Input>
       </Metadata>
+    </Input>
+    <Input id="5">
+      <Value type="1819242306" value="False" />
+      <Metadata />
     </Input>
   </DefaultInputs>
 </ProcedureEditData>

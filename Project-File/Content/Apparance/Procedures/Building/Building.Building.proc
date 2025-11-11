@@ -34,7 +34,7 @@
         <Constant id="-53" type="Integer">1</Constant>
         <Constant id="-54" type="Integer">1</Constant>
         <Constant id="-55" type="Integer">1</Constant>
-        <Constant id="-58" type="Float">0.000000</Constant>
+        <Constant id="-62" type="Float">0.000000</Constant>
     </Constants>
     <Operators>
         <Operator id="1" type="D729EF5D">
@@ -110,9 +110,9 @@
             <Connect in="107" constant="-55"/>
         </Operator>
         <Operator id="14" type="D2698D20">
-            <Connect in="100" input="3"/>
-            <Connect in="101" input="3"/>
-            <Connect in="102" constant="-58"/>
+            <Connect in="100" input="2"/>
+            <Connect in="101" input="2"/>
+            <Connect in="102" constant="-62"/>
         </Operator>
     </Operators>
     <Outputs>

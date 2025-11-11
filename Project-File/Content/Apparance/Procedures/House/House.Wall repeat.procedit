@@ -1,7 +1,7 @@
 <ProcedureEditData version="1">
   <View>
-    <Centre>426.5397,230.3867</Centre>
-    <Zoom>0.751315236</Zoom>
+    <Centre>441.1806,271.6478</Centre>
+    <Zoom>0.683014035</Zoom>
   </View>
   <Procedure>
     <Category>House</Category>
@@ -44,7 +44,7 @@
       <InputMetadata />
     </Object>
     <Object type="ProcedureOperatorState" id="5">
-      <Location>422.662,365.636</Location>
+      <Location>424.1261,349.5308</Location>
       <Size>95.62334,39.28</Size>
       <NoteID>0</NoteID>
       <Comment>
@@ -108,6 +108,10 @@
       <Metadata />
     </Input>
     <Input id="3">
+      <Value type="842221088" value="0" />
+      <Metadata />
+    </Input>
+    <Input id="4">
       <Value type="842221088" value="0" />
       <Metadata />
     </Input>
