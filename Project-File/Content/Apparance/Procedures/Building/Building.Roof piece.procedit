@@ -1,7 +1,7 @@
 <ProcedureEditData version="1">
   <View>
-    <Centre>428.7001,209.6</Centre>
-    <Zoom>0.8264467</Zoom>
+    <Centre>410,225</Centre>
+    <Zoom>0.9090911</Zoom>
   </View>
   <Procedure>
     <Category>Building</Category>
@@ -12,23 +12,31 @@
   </Procedure>
   <Objects>
     <Object type="ProcedureOperatorState" id="1">
-      <Location>196.9998,33.90005</Location>
-      <Size>128.5367,69.28</Size>
+      <Location>409.2487,285.3487</Location>
+      <Size>95.62334,39.28</Size>
       <NoteID>0</NoteID>
       <Comment>
       </Comment>
       <InputMetadata />
     </Object>
     <Object type="ProcedureOperatorState" id="2">
-      <Location>507,183</Location>
-      <Size>86.40667,117</Size>
+      <Location>283.4307,94.0053</Location>
+      <Size>128.5367,69.28</Size>
       <NoteID>0</NoteID>
       <Comment>
       </Comment>
       <InputMetadata />
     </Object>
     <Object type="ProcedureOperatorState" id="3">
-      <Location>465.9001,89.29988</Location>
+      <Location>550,99</Location>
+      <Size>86.40667,117</Size>
+      <NoteID>0</NoteID>
+      <Comment>
+      </Comment>
+      <InputMetadata />
+    </Object>
+    <Object type="ProcedureOperatorState" id="4">
+      <Location>523.6,93.90001</Location>
       <Size>108.8133,78.12</Size>
       <NoteID>0</NoteID>
       <Comment>
@@ -36,12 +44,13 @@
       <InputMetadata />
     </Object>
     <Object type="ProcedureInputState" id="1">
-      <Name>Where?</Name>
+      <Name>Frame</Name>
       <Description>
       </Description>
     </Object>
     <Object type="ProcedureOutputState" id="1">
-      <Name>Object</Name>
+      <Name>
+      </Name>
       <Description>
       </Description>
     </Object>
@@ -51,4 +60,10 @@
     <Look>0,0,0</Look>
     <Interest>0</Interest>
   </Camera>
+  <DefaultInputs>
+    <Input id="1">
+      <Value type="1835102790" value="[0,0,0][1,0,0][0,1,0][0,0,1][1,1,1]" />
+      <Metadata />
+    </Input>
+  </DefaultInputs>
 </ProcedureEditData>
