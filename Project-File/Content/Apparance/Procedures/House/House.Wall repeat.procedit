@@ -1,18 +1,18 @@
 <ProcedureEditData version="1">
   <View>
-    <Centre>441.1806,271.6478</Centre>
-    <Zoom>0.683014035</Zoom>
+    <Centre>351.1805,270.7387</Centre>
+    <Zoom>1.00000155</Zoom>
   </View>
   <Procedure>
     <Category>House</Category>
     <DisplayName>Wall repeat</DisplayName>
     <Description>Repeating sections of a wall</Description>
-    <TopLeft>-109.8644,-20</TopLeft>
-    <BottomRight>705.0184,486.8161</BottomRight>
+    <TopLeft>-271.0762,-20</TopLeft>
+    <BottomRight>705.0184,625.7455</BottomRight>
   </Procedure>
   <Objects>
     <Object type="ProcedureOperatorState" id="1">
-      <Location>90.13558,208.1767</Location>
+      <Location>-71.07623,211.7198</Location>
       <Size>164.7867,219.28</Size>
       <NoteID>0</NoteID>
       <Comment>
@@ -29,22 +29,22 @@
     </Object>
     <Object type="ProcedureOperatorState" id="3">
       <Location>393.112,35.75296</Location>
-      <Size>94.7,78.12</Size>
+      <Size>103.4033,104.04</Size>
       <NoteID>0</NoteID>
       <Comment>
       </Comment>
       <InputMetadata />
     </Object>
     <Object type="ProcedureOperatorState" id="4">
-      <Location>395.4781,122.972</Location>
-      <Size>94.7,78.12</Size>
+      <Location>390.9326,223.0185</Location>
+      <Size>103.4033,104.04</Size>
       <NoteID>0</NoteID>
       <Comment>
       </Comment>
       <InputMetadata />
     </Object>
     <Object type="ProcedureOperatorState" id="5">
-      <Location>424.1261,349.5308</Location>
+      <Location>376.2943,464.6815</Location>
       <Size>95.62334,39.28</Size>
       <NoteID>0</NoteID>
       <Comment>
@@ -52,7 +52,7 @@
       <InputMetadata />
     </Object>
     <Object type="ProcedureOperatorState" id="6">
-      <Location>437.317,281.669</Location>
+      <Location>378.8557,471.225</Location>
       <Size>77.85,52.2</Size>
       <NoteID>0</NoteID>
       <Comment>
@@ -60,7 +60,7 @@
       <InputMetadata />
     </Object>
     <Object type="ProcedureOperatorState" id="7">
-      <Location>423,416</Location>
+      <Location>387.569,536.4655</Location>
       <Size>81.99333,39.28</Size>
       <NoteID>0</NoteID>
       <Comment>
@@ -92,6 +92,16 @@
       <Description>
       </Description>
     </Object>
+    <Object type="ProcedureInputState" id="5">
+      <Name>Start Index</Name>
+      <Description>
+      </Description>
+    </Object>
+    <Object type="ProcedureInputState" id="6">
+      <Name>Total Objects</Name>
+      <Description>
+      </Description>
+    </Object>
   </Objects>
   <Camera>
     <Position>0,0,0</Position>
@@ -113,6 +123,14 @@
     </Input>
     <Input id="4">
       <Value type="842221088" value="0" />
+      <Metadata />
+    </Input>
+    <Input id="5">
+      <Value type="842221856" value="0" />
+      <Metadata />
+    </Input>
+    <Input id="6">
+      <Value type="842221856" value="0" />
       <Metadata />
     </Input>
   </DefaultInputs>

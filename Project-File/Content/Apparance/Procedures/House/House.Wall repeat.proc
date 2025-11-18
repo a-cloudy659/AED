@@ -5,17 +5,16 @@
         <Input id="2" type="Integer" name="Select" description=""/>
         <Input id="3" type="Float" name="Object Size" description=""/>
         <Input id="4" type="Float" name="Spacer Size" description=""/>
+        <Input id="5" type="Integer" name="Start Index" description=""/>
+        <Input id="6" type="Integer" name="Total Objects" description=""/>
     </Inputs>
     <Constants>
         <Constant id="-3" type="Integer">0</Constant>
         <Constant id="-6" type="Float">1.000000</Constant>
         <Constant id="-7" type="Float">1.000000</Constant>
-        <Constant id="-8" type="Integer">0</Constant>
-        <Constant id="-9" type="Integer">0</Constant>
         <Constant id="-13" type="ModelSegment"></Constant>
         <Constant id="-16" type="ModelSegment"></Constant>
         <Constant id="-25" type="FColour">[0.058824,0.164706,0.517647,1.000000]</Constant>
-        <Constant id="-27" type="Frame">[0,0,0][1,0,0][0,1,0][0,0,1][1,1,1]</Constant>
     </Constants>
     <Operators>
         <Operator id="1" type="D1CF1CFF">
@@ -26,8 +25,8 @@
             <Connect in="5" input="4"/>
             <Connect in="6" constant="-6"/>
             <Connect in="7" constant="-7"/>
-            <Connect in="8" constant="-8"/>
-            <Connect in="9" constant="-9"/>
+            <Connect in="8" input="5"/>
+            <Connect in="9" input="6"/>
         </Operator>
         <Operator id="2" type="0F68AB71">
             <Connect in="1" to="1" out="1"/>
@@ -43,15 +42,16 @@
             <Connect in="2" to="1" out="3"/>
             <Connect in="3" input="3"/>
             <Connect in="4" input="4"/>
+            <Connect in="5" to="1" out="11"/>
+            <Connect in="6" to="1" out="13"/>
         </Operator>
         <Operator id="4" type="7B0FA74B">
             <Connect in="1" to="1" out="4"/>
             <Connect in="2" to="1" out="5"/>
             <Connect in="3" input="3"/>
             <Connect in="4" input="4"/>
-        </Operator>
-        <Operator id="5" type="C22F65F7">
-            <Connect in="1" constant="-27"/>
+            <Connect in="5" to="1" out="12"/>
+            <Connect in="6" to="1" out="13"/>
         </Operator>
         <Operator id="6" type="8CC08944">
             <Connect in="1" to="1" out="7"/>
