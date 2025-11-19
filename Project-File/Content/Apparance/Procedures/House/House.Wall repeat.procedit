@@ -1,14 +1,14 @@
 <ProcedureEditData version="1">
   <View>
-    <Centre>351.1805,270.7387</Centre>
-    <Zoom>1.00000155</Zoom>
+    <Centre>492.6198,365.7387</Centre>
+    <Zoom>0.620921731</Zoom>
   </View>
   <Procedure>
     <Category>House</Category>
     <DisplayName>Wall repeat</DisplayName>
     <Description>Repeating sections of a wall</Description>
     <TopLeft>-271.0762,-20</TopLeft>
-    <BottomRight>705.0184,625.7455</BottomRight>
+    <BottomRight>816.7793,793.5131</BottomRight>
   </Procedure>
   <Objects>
     <Object type="ProcedureOperatorState" id="1">
@@ -20,7 +20,7 @@
       <InputMetadata />
     </Object>
     <Object type="ProcedureOperatorState" id="2">
-      <Location>667.7825,236.7341</Location>
+      <Location>800.8393,204.5027</Location>
       <Size>115.94,117</Size>
       <NoteID>0</NoteID>
       <Comment>
@@ -29,7 +29,7 @@
     </Object>
     <Object type="ProcedureOperatorState" id="3">
       <Location>393.112,35.75296</Location>
-      <Size>103.4033,104.04</Size>
+      <Size>103.4033,117</Size>
       <NoteID>0</NoteID>
       <Comment>
       </Comment>
@@ -37,7 +37,7 @@
     </Object>
     <Object type="ProcedureOperatorState" id="4">
       <Location>390.9326,223.0185</Location>
-      <Size>103.4033,104.04</Size>
+      <Size>103.4033,117</Size>
       <NoteID>0</NoteID>
       <Comment>
       </Comment>
@@ -52,7 +52,7 @@
       <InputMetadata />
     </Object>
     <Object type="ProcedureOperatorState" id="6">
-      <Location>378.8557,471.225</Location>
+      <Location>509.4344,472.0515</Location>
       <Size>77.85,52.2</Size>
       <NoteID>0</NoteID>
       <Comment>
@@ -60,8 +60,96 @@
       <InputMetadata />
     </Object>
     <Object type="ProcedureOperatorState" id="7">
-      <Location>387.569,536.4655</Location>
+      <Location>398.3128,704.2331</Location>
       <Size>81.99333,39.28</Size>
+      <NoteID>0</NoteID>
+      <Comment>
+      </Comment>
+      <InputMetadata />
+    </Object>
+    <Object type="ProcedureOperatorState" id="8">
+      <Location>662.9415,359.6776</Location>
+      <Size>74.33,65.16</Size>
+      <NoteID>0</NoteID>
+      <Comment>
+      </Comment>
+      <InputMetadata />
+    </Object>
+    <Object type="ProcedureOperatorState" id="9">
+      <Location>472.1575,379.6942</Location>
+      <Size>46.75667,32.92</Size>
+      <NoteID>0</NoteID>
+      <Comment>
+      </Comment>
+      <InputMetadata />
+    </Object>
+    <Object type="ProcedureOperatorState" id="10">
+      <Location>387.5455,417.1901</Location>
+      <Size>46.75667,32.92</Size>
+      <NoteID>0</NoteID>
+      <Comment>
+      </Comment>
+      <InputMetadata />
+    </Object>
+    <Object type="ProcedureOperatorState" id="11">
+      <Location>129,578</Location>
+      <Size>46.75667,32.92</Size>
+      <NoteID>0</NoteID>
+      <Comment>
+      </Comment>
+      <InputMetadata />
+    </Object>
+    <Object type="ProcedureOperatorState" id="12">
+      <Location>485.3224,499.5219</Location>
+      <Size>46.75667,32.92</Size>
+      <NoteID>0</NoteID>
+      <Comment>
+      </Comment>
+      <InputMetadata />
+    </Object>
+    <Object type="ProcedureOperatorState" id="13">
+      <Location>481.4959,498.521</Location>
+      <Size>46.75667,32.92</Size>
+      <NoteID>0</NoteID>
+      <Comment>
+      </Comment>
+      <InputMetadata />
+    </Object>
+    <Object type="ProcedureOperatorState" id="14">
+      <Location>445.7356,571.6944</Location>
+      <Size>46.75667,32.92</Size>
+      <NoteID>0</NoteID>
+      <Comment>
+      </Comment>
+      <InputMetadata />
+    </Object>
+    <Object type="ProcedureOperatorState" id="15">
+      <Location>351.6115,545.7947</Location>
+      <Size>46.75667,32.92</Size>
+      <NoteID>0</NoteID>
+      <Comment>
+      </Comment>
+      <InputMetadata />
+    </Object>
+    <Object type="ProcedureOperatorState" id="16">
+      <Location>593.3229,504.0413</Location>
+      <Size>74.33,65.16</Size>
+      <NoteID>0</NoteID>
+      <Comment>
+      </Comment>
+      <InputMetadata />
+    </Object>
+    <Object type="ProcedureOperatorState" id="17">
+      <Location>593.075,494.7276</Location>
+      <Size>74.33,65.16</Size>
+      <NoteID>0</NoteID>
+      <Comment>
+      </Comment>
+      <InputMetadata />
+    </Object>
+    <Object type="ProcedureOperatorState" id="18">
+      <Location>722.4038,585.8683</Location>
+      <Size>58.81333,52.2</Size>
       <NoteID>0</NoteID>
       <Comment>
       </Comment>
@@ -99,6 +187,11 @@
     </Object>
     <Object type="ProcedureInputState" id="6">
       <Name>Total Objects</Name>
+      <Description>
+      </Description>
+    </Object>
+    <Object type="ProcedureInputState" id="7">
+      <Name>Wall Seed</Name>
       <Description>
       </Description>
     </Object>
