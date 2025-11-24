@@ -28,6 +28,6 @@
         </Operator>
     </Operators>
     <Outputs>
-        <Output id="1" type="ModelSegment" name="" description="" to="3" out="100"/>
+        <Output id="1" type="ModelSegment" name="Object" description="" to="3" out="100"/>
     </Outputs>
 </Procedure>
