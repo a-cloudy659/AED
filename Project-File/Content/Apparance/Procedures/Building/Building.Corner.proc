@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<Procedure Version="5" type="347810A1">
+    <Inputs>
+        <Input id="1" type="Frame" name="Frame" description=""/>
+    </Inputs>
+    <Constants>
+        <Constant id="-3" type="Bool">True</Constant>
+        <Constant id="-4" type="Bool">False</Constant>
+        <Constant id="-5" type="Bool">False</Constant>
+        <Constant id="-6" type="Bool">False</Constant>
+        <Constant id="-7" type="Bool">True</Constant>
+    </Constants>
+    <Operators>
+        <Operator id="1" type="347B51DF">
+            <Connect in="1" input="1"/>
+        </Operator>
+        <Operator id="2" type="0662B77B">
+            <Connect in="1" constant="-3"/>
+            <Connect in="2" constant="-4"/>
+            <Connect in="3" constant="-5"/>
+            <Connect in="4" constant="-6"/>
+            <Connect in="5" constant="-7"/>
+        </Operator>
+    </Operators>
+    <Outputs>
+        <Output id="1" type="ModelSegment" name="" description="" to="1" out="2"/>
+    </Outputs>
+</Procedure>
