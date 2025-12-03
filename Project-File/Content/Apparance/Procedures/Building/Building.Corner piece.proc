@@ -9,7 +9,7 @@
         <Constant id="-4" type="Frame">[0,0,0][1,0,0][0,1,0][0,0,1][1,1,1]</Constant>
         <Constant id="-5" type="Integer">0</Constant>
         <Constant id="-12" type="String"></Constant>
-        <Constant id="-13" type="String">Roof_corner</Constant>
+        <Constant id="-13" type="String">House.Roof_corner</Constant>
     </Constants>
     <Operators>
         <Operator id="1" type="A58A93E3">
@@ -28,6 +28,6 @@
         </Operator>
     </Operators>
     <Outputs>
-        <Output id="2" type="ModelSegment" name="" description="" to="4" out="1"/>
+        <Output id="2" type="ModelSegment" name="" description="" to="1" out="100"/>
     </Outputs>
 </Procedure>

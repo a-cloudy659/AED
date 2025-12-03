@@ -6,11 +6,11 @@
     <Constants>
         <Constant id="-3" type="FColour">[0.000000,0.000000,0.000000,1.000000]</Constant>
         <Constant id="-4" type="Frame">[0,0,0][1,0,0][0,1,0][0,0,1][1,1,1]</Constant>
-        <Constant id="-7" type="Bool">True</Constant>
+        <Constant id="-7" type="Bool">False</Constant>
         <Constant id="-8" type="Bool">False</Constant>
         <Constant id="-9" type="Bool">False</Constant>
         <Constant id="-10" type="Bool">False</Constant>
-        <Constant id="-11" type="Bool">True</Constant>
+        <Constant id="-11" type="Bool">False</Constant>
         <Constant id="-12" type="Float">2.000000</Constant>
     </Constants>
     <Operators>

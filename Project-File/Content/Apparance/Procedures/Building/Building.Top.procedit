@@ -1,14 +1,14 @@
 <ProcedureEditData version="1">
   <View>
-    <Centre>744.0769,-80.25372</Centre>
-    <Zoom>0.9090914</Zoom>
+    <Centre>615.3691,91.59676</Centre>
+    <Zoom>0.564474344</Zoom>
   </View>
   <Procedure>
     <Category>Building</Category>
     <DisplayName>Top</DisplayName>
     <Description>Roof of the house</Description>
     <TopLeft>-221.8349,-625.4658</TopLeft>
-    <BottomRight>975.075,573.9979</BottomRight>
+    <BottomRight>983.0747,695.5343</BottomRight>
   </Procedure>
   <Objects>
     <Object type="ProcedureOperatorState" id="1">
@@ -28,7 +28,7 @@
       <InputMetadata />
     </Object>
     <Object type="ProcedureOperatorState" id="3">
-      <Location>19.15985,347.1814</Location>
+      <Location>35.10394,536.7388</Location>
       <Size>90.55334,91.08</Size>
       <NoteID>0</NoteID>
       <Comment>
@@ -68,7 +68,7 @@
       <InputMetadata />
     </Object>
     <Object type="ProcedureOperatorState" id="8">
-      <Location>826.6466,189.0124</Location>
+      <Location>702.0159,285.812</Location>
       <Size>52.75333,39.28</Size>
       <NoteID>0</NoteID>
       <Comment>
@@ -100,7 +100,7 @@
       <InputMetadata />
     </Object>
     <Object type="ProcedureOperatorState" id="12">
-      <Location>517.2905,-319.7353</Location>
+      <Location>503.2905,-368.7072</Location>
       <Size>69.12,65.16</Size>
       <NoteID>0</NoteID>
       <Comment>
@@ -108,7 +108,7 @@
       <InputMetadata />
     </Object>
     <Object type="ProcedureOperatorState" id="13">
-      <Location>501.2474,262.0211</Location>
+      <Location>503.9094,277.993</Location>
       <Size>69.12,65.16</Size>
       <NoteID>0</NoteID>
       <Comment>
@@ -116,7 +116,7 @@
       <InputMetadata />
     </Object>
     <Object type="ProcedureOperatorState" id="14">
-      <Location>603.1973,383.998</Location>
+      <Location>510.0278,378.674</Location>
       <Size>69.12,65.16</Size>
       <NoteID>0</NoteID>
       <Comment>
@@ -124,7 +124,7 @@
       <InputMetadata />
     </Object>
     <Object type="ProcedureOperatorState" id="15">
-      <Location>272.0729,-281.588</Location>
+      <Location>246.784,-365.4409</Location>
       <Size>90.55334,91.08</Size>
       <NoteID>0</NoteID>
       <Comment>
@@ -132,7 +132,7 @@
       <InputMetadata />
     </Object>
     <Object type="ProcedureOperatorState" id="16">
-      <Location>236.0425,183.0709</Location>
+      <Location>273.3104,241.6347</Location>
       <Size>90.55334,91.08</Size>
       <NoteID>0</NoteID>
       <Comment>
@@ -140,7 +140,7 @@
       <InputMetadata />
     </Object>
     <Object type="ProcedureOperatorState" id="17">
-      <Location>257.346,-38.25606</Location>
+      <Location>267.2458,-64.65608</Location>
       <Size>90.55334,91.08</Size>
       <NoteID>0</NoteID>
       <Comment>
@@ -180,7 +180,7 @@
       <InputMetadata />
     </Object>
     <Object type="ProcedureOperatorState" id="22">
-      <Location>1028.318,-60.5598</Location>
+      <Location>1036.318,-114.5598</Location>
       <Size>46.75667,136.6</Size>
       <NoteID>0</NoteID>
       <Comment>
@@ -188,7 +188,7 @@
       <InputMetadata />
     </Object>
     <Object type="ProcedureOperatorState" id="23">
-      <Location>792.4138,-270.5057</Location>
+      <Location>706.4138,-350.5057</Location>
       <Size>52.75333,39.28</Size>
       <NoteID>0</NoteID>
       <Comment>
@@ -220,7 +220,7 @@
       <InputMetadata />
     </Object>
     <Object type="ProcedureOperatorState" id="27">
-      <Location>790.2081,-84.89976</Location>
+      <Location>709.1376,-139.3496</Location>
       <Size>52.75333,39.28</Size>
       <NoteID>0</NoteID>
       <Comment>
@@ -228,7 +228,7 @@
       <InputMetadata />
     </Object>
     <Object type="ProcedureOperatorState" id="28">
-      <Location>795.9076,76.10016</Location>
+      <Location>705.157,65.21017</Location>
       <Size>52.75333,39.28</Size>
       <NoteID>0</NoteID>
       <Comment>
@@ -236,7 +236,7 @@
       <InputMetadata />
     </Object>
     <Object type="ProcedureOperatorState" id="29">
-      <Location>490.2082,94.04271</Location>
+      <Location>511.1083,53.34277</Location>
       <Size>69.12,65.16</Size>
       <NoteID>0</NoteID>
       <Comment>
@@ -244,7 +244,7 @@
       <InputMetadata />
     </Object>
     <Object type="ProcedureOperatorState" id="30">
-      <Location>477.3505,-71.31382</Location>
+      <Location>504.8506,-158.2138</Location>
       <Size>69.12,65.16</Size>
       <NoteID>0</NoteID>
       <Comment>
@@ -252,7 +252,7 @@
       <InputMetadata />
     </Object>
     <Object type="ProcedureOperatorState" id="31">
-      <Location>517.4209,-227.3207</Location>
+      <Location>503.4279,-281.3067</Location>
       <Size>69.12,65.16</Size>
       <NoteID>0</NoteID>
       <Comment>
@@ -284,7 +284,47 @@
       <InputMetadata />
     </Object>
     <Object type="ProcedureOperatorState" id="35">
-      <Location>736,-172</Location>
+      <Location>663,-268</Location>
+      <Size>99.61333,39.28</Size>
+      <NoteID>0</NoteID>
+      <Comment>
+      </Comment>
+      <InputMetadata />
+    </Object>
+    <Object type="ProcedureOperatorState" id="36">
+      <Location>501.1469,-456.1635</Location>
+      <Size>69.12,65.16</Size>
+      <NoteID>0</NoteID>
+      <Comment>
+      </Comment>
+      <InputMetadata />
+    </Object>
+    <Object type="ProcedureOperatorState" id="37">
+      <Location>507.655,172.2312</Location>
+      <Size>69.12,65.16</Size>
+      <NoteID>0</NoteID>
+      <Comment>
+      </Comment>
+      <InputMetadata />
+    </Object>
+    <Object type="ProcedureOperatorState" id="38">
+      <Location>658.5895,-440.58</Location>
+      <Size>99.61333,39.28</Size>
+      <NoteID>0</NoteID>
+      <Comment>
+      </Comment>
+      <InputMetadata />
+    </Object>
+    <Object type="ProcedureOperatorState" id="39">
+      <Location>663.4798,170.6901</Location>
+      <Size>99.61333,39.28</Size>
+      <NoteID>0</NoteID>
+      <Comment>
+      </Comment>
+      <InputMetadata />
+    </Object>
+    <Object type="ProcedureOperatorState" id="40">
+      <Location>661.3198,387</Location>
       <Size>99.61333,39.28</Size>
       <NoteID>0</NoteID>
       <Comment>
