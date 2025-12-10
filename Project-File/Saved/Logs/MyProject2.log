@@ -4381,3 +4381,170 @@ Sampler Limit: 32
 [2025.12.10-12.01.37:467][194]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.12.10-12.01.37:467][194]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.12.10-12.01.37:467][194]AssetCheck: /Game/Environment Validating asset
+[2025.12.10-12.03.00:691][661]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8035.370605
+[2025.12.10-12.03.01:691][664]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.10-12.03.01:691][664]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8036.037598, Update Interval: 322.916351
+[2025.12.10-12.06.34:743][341]LogSlate: Window 'Message' being destroyed
+[2025.12.10-12.06.34:754][341]Message dialog closed, result: Yes, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/Materials/BushGreen.BushGreen
+(Selecting 'No' will cause all changes to be lost!)
+[2025.12.10-12.06.36:329][341]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2025.12.10-12.06.36:522][341]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2025.12.10-12.06.36:550][341]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2025.12.10-12.06.38:753][341]LogSlate: Window 'Save Content' being destroyed
+[2025.12.10-12.06.38:765][341]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.10-12.06.38:798][341]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/Bench/New/Bench_low_DefaultMaterial_BaseColor] ([1] browsable assets)...
+[2025.12.10-12.06.38:847][341]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Materials/Bench/New/Bench_low_DefaultMaterial_BaseColor.Bench_low_DefaultMaterial_BaseColor]
+[2025.12.10-12.06.38:847][341]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/Bench/New/Bench_low_DefaultMaterial_BaseColor]
+[2025.12.10-12.06.38:929][341]LogSavePackage: Moving output files for package: /Game/Materials/Bench/New/Bench_low_DefaultMaterial_BaseColor
+[2025.12.10-12.06.38:929][341]LogSavePackage: Moving '../../../../../../Users/s4203496/Documents/GitHub/AED/Project-File/Saved/Bench_low_DefaultMaterial_BaseCoCFDD964E48AA560A4BB703A1C37392C7.tmp' to '../../../../../../Users/s4203496/Documents/GitHub/AED/Project-File/Content/Materials/Bench/New/Bench_low_DefaultMaterial_BaseColor.uasset'
+[2025.12.10-12.06.38:931][341]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/Bench/New/Bench_low_DefaultMaterial_Normal] ([1] browsable assets)...
+[2025.12.10-12.06.38:939][341]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Materials/Bench/New/Bench_low_DefaultMaterial_Normal.Bench_low_DefaultMaterial_Normal]
+[2025.12.10-12.06.38:939][341]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/Bench/New/Bench_low_DefaultMaterial_Normal]
+[2025.12.10-12.06.39:031][341]LogSavePackage: Moving output files for package: /Game/Materials/Bench/New/Bench_low_DefaultMaterial_Normal
+[2025.12.10-12.06.39:031][341]LogSavePackage: Moving '../../../../../../Users/s4203496/Documents/GitHub/AED/Project-File/Saved/Bench_low_DefaultMaterial_Normal4E90AF7644A135E68EC6F7B9452561C7.tmp' to '../../../../../../Users/s4203496/Documents/GitHub/AED/Project-File/Content/Materials/Bench/New/Bench_low_DefaultMaterial_Normal.uasset'
+[2025.12.10-12.06.39:032][341]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/Bench/New/Bench_low_DefaultMaterial_OcclusionRoughnessMetallic] ([1] browsable assets)...
+[2025.12.10-12.06.39:036][341]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Materials/Bench/New/Bench_low_DefaultMaterial_OcclusionRoughnessMetallic.Bench_low_DefaultMaterial_OcclusionRoughnessMetallic]
+[2025.12.10-12.06.39:036][341]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/Bench/New/Bench_low_DefaultMaterial_OcclusionRoughnessMetallic]
+[2025.12.10-12.06.39:090][341]LogSavePackage: Moving output files for package: /Game/Materials/Bench/New/Bench_low_DefaultMaterial_OcclusionRoughnessMetallic
+[2025.12.10-12.06.39:090][341]LogSavePackage: Moving '../../../../../../Users/s4203496/Documents/GitHub/AED/Project-File/Saved/Bench_low_DefaultMaterial_Occlus42A4F28942A3A0284AC989875750B095.tmp' to '../../../../../../Users/s4203496/Documents/GitHub/AED/Project-File/Content/Materials/Bench/New/Bench_low_DefaultMaterial_OcclusionRoughnessMetallic.uasset'
+[2025.12.10-12.06.39:093][341]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/BushGreen] ([1] browsable assets)...
+[2025.12.10-12.06.39:249][341]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Materials/BushGreen.BushGreen]
+[2025.12.10-12.06.39:249][341]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/BushGreen]
+[2025.12.10-12.06.39:249][341]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/BushGreen" FILE="../../../../../../Users/s4203496/Documents/GitHub/AED/Project-File/Content/Materials/BushGreen.uasset" SILENT=true
+[2025.12.10-12.06.39:260][341]LogSavePackage: Moving output files for package: /Game/Materials/BushGreen
+[2025.12.10-12.06.39:262][341]LogSavePackage: Moving '../../../../../../Users/s4203496/Documents/GitHub/AED/Project-File/Saved/BushGreen129BE157498865295AB7418523C95DB9.tmp' to '../../../../../../Users/s4203496/Documents/GitHub/AED/Project-File/Content/Materials/BushGreen.uasset'
+[2025.12.10-12.06.39:263][341]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/Rocks/Rocks_low_Rock_BaseColor] ([1] browsable assets)...
+[2025.12.10-12.06.39:267][341]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Materials/Rocks/Rocks_low_Rock_BaseColor.Rocks_low_Rock_BaseColor]
+[2025.12.10-12.06.39:267][341]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/Rocks/Rocks_low_Rock_BaseColor]
+[2025.12.10-12.06.39:284][341]LogSavePackage: Moving output files for package: /Game/Materials/Rocks/Rocks_low_Rock_BaseColor
+[2025.12.10-12.06.39:284][341]LogSavePackage: Moving '../../../../../../Users/s4203496/Documents/GitHub/AED/Project-File/Saved/Rocks_low_Rock_BaseColor1393E7C148265C08039A82B3A7B25C2B.tmp' to '../../../../../../Users/s4203496/Documents/GitHub/AED/Project-File/Content/Materials/Rocks/Rocks_low_Rock_BaseColor.uasset'
+[2025.12.10-12.06.39:286][341]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/Rocks/Rocks_low_Rock_Height] ([1] browsable assets)...
+[2025.12.10-12.06.39:290][341]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Materials/Rocks/Rocks_low_Rock_Height.Rocks_low_Rock_Height]
+[2025.12.10-12.06.39:290][341]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/Rocks/Rocks_low_Rock_Height]
+[2025.12.10-12.06.39:309][341]LogSavePackage: Moving output files for package: /Game/Materials/Rocks/Rocks_low_Rock_Height
+[2025.12.10-12.06.39:309][341]LogSavePackage: Moving '../../../../../../Users/s4203496/Documents/GitHub/AED/Project-File/Saved/Rocks_low_Rock_HeightEF1FBB774B924F7BDD69E391EDFA12D5.tmp' to '../../../../../../Users/s4203496/Documents/GitHub/AED/Project-File/Content/Materials/Rocks/Rocks_low_Rock_Height.uasset'
+[2025.12.10-12.06.39:310][341]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/Rocks/Rocks_low_Rock_Metallic] ([1] browsable assets)...
+[2025.12.10-12.06.39:315][341]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Materials/Rocks/Rocks_low_Rock_Metallic.Rocks_low_Rock_Metallic]
+[2025.12.10-12.06.39:315][341]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/Rocks/Rocks_low_Rock_Metallic]
+[2025.12.10-12.06.39:328][341]LogSavePackage: Moving output files for package: /Game/Materials/Rocks/Rocks_low_Rock_Metallic
+[2025.12.10-12.06.39:328][341]LogSavePackage: Moving '../../../../../../Users/s4203496/Documents/GitHub/AED/Project-File/Saved/Rocks_low_Rock_MetallicAA572D8042C990F8F92CCC9898CBBE6F.tmp' to '../../../../../../Users/s4203496/Documents/GitHub/AED/Project-File/Content/Materials/Rocks/Rocks_low_Rock_Metallic.uasset'
+[2025.12.10-12.06.39:329][341]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/Rocks/Rocks_low_Rock_Normal] ([1] browsable assets)...
+[2025.12.10-12.06.39:333][341]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Materials/Rocks/Rocks_low_Rock_Normal.Rocks_low_Rock_Normal]
+[2025.12.10-12.06.39:333][341]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/Rocks/Rocks_low_Rock_Normal]
+[2025.12.10-12.06.39:365][341]LogSavePackage: Moving output files for package: /Game/Materials/Rocks/Rocks_low_Rock_Normal
+[2025.12.10-12.06.39:365][341]LogSavePackage: Moving '../../../../../../Users/s4203496/Documents/GitHub/AED/Project-File/Saved/Rocks_low_Rock_Normal785FE64B4A88E04B81AFF090E111059A.tmp' to '../../../../../../Users/s4203496/Documents/GitHub/AED/Project-File/Content/Materials/Rocks/Rocks_low_Rock_Normal.uasset'
+[2025.12.10-12.06.39:367][341]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/Rocks/Rocks_low_Rock_Roughness] ([1] browsable assets)...
+[2025.12.10-12.06.39:370][341]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Materials/Rocks/Rocks_low_Rock_Roughness.Rocks_low_Rock_Roughness]
+[2025.12.10-12.06.39:370][341]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/Rocks/Rocks_low_Rock_Roughness]
+[2025.12.10-12.06.39:388][341]LogSavePackage: Moving output files for package: /Game/Materials/Rocks/Rocks_low_Rock_Roughness
+[2025.12.10-12.06.39:388][341]LogSavePackage: Moving '../../../../../../Users/s4203496/Documents/GitHub/AED/Project-File/Saved/Rocks_low_Rock_Roughness27FA60D64DF574CBC64AECBDA1AD542A.tmp' to '../../../../../../Users/s4203496/Documents/GitHub/AED/Project-File/Content/Materials/Rocks/Rocks_low_Rock_Roughness.uasset'
+[2025.12.10-12.06.39:390][341]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Smoke/Smoke] ([1] browsable assets)...
+[2025.12.10-12.06.39:390][341]OBJ SavePackage: Finished generating thumbnails for package [/Game/Smoke/Smoke]
+[2025.12.10-12.06.39:390][341]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Smoke/Smoke" FILE="../../../../../../Users/s4203496/Documents/GitHub/AED/Project-File/Content/Smoke/Smoke.uasset" SILENT=true
+[2025.12.10-12.06.39:420][341]LogSavePackage: Moving output files for package: /Game/Smoke/Smoke
+[2025.12.10-12.06.39:422][341]LogSavePackage: Moving '../../../../../../Users/s4203496/Documents/GitHub/AED/Project-File/Saved/Smoke4F1B6D0647C61F2AC38AF1A0E18F2BEF.tmp' to '../../../../../../Users/s4203496/Documents/GitHub/AED/Project-File/Content/Smoke/Smoke.uasset'
+[2025.12.10-12.06.39:436][341]LogFileHelpers: InternalPromptForCheckoutAndSave took 669.952 ms (total: 14.6 sec)
+[2025.12.10-12.06.39:481][341]LogStall: Shutdown...
+[2025.12.10-12.06.39:481][341]LogStall: Shutdown complete.
+[2025.12.10-12.06.39:574][341]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-12.06.39:575][341]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-12.06.39:580][341]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-12.06.39:581][341]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-12.06.39:659][341]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-12.06.39:659][341]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-12.06.39:710][341]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-12.06.39:710][341]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-12.06.39:764][341]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-12.06.39:764][341]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-12.06.39:813][341]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-12.06.39:813][341]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-12.06.39:830][341]LogSlate: Window 'Tree' being destroyed
+[2025.12.10-12.06.39:872][341]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-12.06.39:873][341]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-12.06.39:919][341]LogSlate: Window 'MyProject2 - Unreal Editor' being destroyed
+[2025.12.10-12.06.39:920][341]LogWindowsTextInputMethodSystem: Activated input method: English (United Kingdom) - (Keyboard).
+[2025.12.10-12.06.40:107][341]LogContentValidation: Display: Starting to validate 10 assets
+[2025.12.10-12.06.40:108][341]LogContentValidation: Enabled validators:
+[2025.12.10-12.06.40:108][341]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.10-12.06.40:108][341]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.10-12.06.40:108][341]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.10-12.06.40:108][341]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.10-12.06.40:108][341]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.10-12.06.40:108][341]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.10-12.06.40:108][341]AssetCheck: /Game/Materials/Bench/New/Bench_low_DefaultMaterial_BaseColor Validating asset
+[2025.12.10-12.06.40:108][341]AssetCheck: /Game/Materials/Bench/New/Bench_low_DefaultMaterial_Normal Validating asset
+[2025.12.10-12.06.40:108][341]AssetCheck: /Game/Materials/Bench/New/Bench_low_DefaultMaterial_OcclusionRoughnessMetallic Validating asset
+[2025.12.10-12.06.40:108][341]AssetCheck: /Game/Materials/BushGreen Validating asset
+[2025.12.10-12.06.40:108][341]AssetCheck: /Game/Materials/Rocks/Rocks_low_Rock_BaseColor Validating asset
+[2025.12.10-12.06.40:108][341]AssetCheck: /Game/Materials/Rocks/Rocks_low_Rock_Height Validating asset
+[2025.12.10-12.06.40:108][341]AssetCheck: /Game/Materials/Rocks/Rocks_low_Rock_Metallic Validating asset
+[2025.12.10-12.06.40:108][341]AssetCheck: /Game/Materials/Rocks/Rocks_low_Rock_Normal Validating asset
+[2025.12.10-12.06.40:108][341]AssetCheck: /Game/Materials/Rocks/Rocks_low_Rock_Roughness Validating asset
+[2025.12.10-12.06.40:108][341]AssetCheck: /Game/Smoke/Smoke Validating asset
+[2025.12.10-12.06.40:172][341]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2025.12.10-12.06.40:205][341]Cmd: QUIT_EDITOR
+[2025.12.10-12.06.40:207][341]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2025.12.10-12.06.40:208][341]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/s4203496/Documents/GitHub/AED/Project-File/Saved/SourceControl/UncontrolledChangelists.json
+[2025.12.10-12.06.40:214][342]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2025.12.10-12.06.40:219][342]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2025.12.10-12.06.40:219][342]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2025.12.10-12.06.40:234][342]LogWorld: UWorld::CleanupWorld for Environment, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-12.06.40:234][342]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-12.06.40:245][342]LogTedsSettings: UTedsSettingsEditorSubsystem::Deinitialize
+[2025.12.10-12.06.40:246][342]LogStylusInput: Shutting down StylusInput subsystem.
+[2025.12.10-12.06.40:248][342]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2025.12.10-12.06.40:255][342]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-12.06.40:255][342]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-12.06.40:255][342]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-12.06.40:255][342]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-12.06.40:256][342]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-12.06.40:256][342]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-12.06.40:256][342]LogWorld: UWorld::CleanupWorld for ApparanceWorkspace, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-12.06.40:256][342]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-12.06.40:256][342]LogWorld: Warning: UWorld::CleanupWorld called twice or called without InitWorld called first (ApparanceWorkspace)
+[2025.12.10-12.06.40:256][342]LogWorld: UWorld::CleanupWorld for ApparanceWorkspace, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-12.06.40:256][342]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-12.06.40:256][342]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-12.06.40:256][342]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-12.06.40:257][342]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-12.06.40:257][342]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-12.06.40:259][342]LogRuntimeTelemetry: Recording EnginePreExit events
+[2025.12.10-12.06.40:259][342]LogStudioTelemetry: Ended StudioTelemetry Session
+[2025.12.10-12.06.40:267][342]LogAnalytics: Display: [UEEditor.Rocket.Release] AnalyticsET::EndSession
+[2025.12.10-12.06.40:572][342]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2025.12.10-12.06.40:573][342]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2025.12.10-12.06.40:573][342]LogAudio: Display: Audio Device unregistered from world 'Environment'.
+[2025.12.10-12.06.40:573][342]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2025.12.10-12.06.40:573][342]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=4
+[2025.12.10-12.06.40:575][342]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=2
+[2025.12.10-12.06.40:582][342]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2025.12.10-12.06.40:583][342]LogAudio: Display: Audio Device Manager Shutdown
+[2025.12.10-12.06.40:588][342]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2025.12.10-12.06.40:588][342]LogExit: Preparing to exit.
+[2025.12.10-12.06.40:624][342]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2025.12.10-12.06.41:132][342]LogEditorDataStorage: Deinitializing
+[2025.12.10-12.06.41:258][342]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2025.12.10-12.06.41:306][342]LogExit: Editor shut down
+[2025.12.10-12.06.41:308][342]LogExit: Transaction tracking system shut down
+[2025.12.10-12.06.41:520][342]LogExit: Object subsystem successfully closed.
+[2025.12.10-12.06.41:547][342]LogShaderCompilers: Display: Shaders left to compile 0
+[2025.12.10-12.06.41:700][342]LogMemoryProfiler: Shutdown
+[2025.12.10-12.06.41:701][342]LogNetworkingProfiler: Shutdown
+[2025.12.10-12.06.41:701][342]LoadingProfiler: Shutdown
+[2025.12.10-12.06.41:702][342]LogTimingProfiler: Shutdown
+[2025.12.10-12.06.41:706][342]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDGenericDebugDrawExtension] ...
+[2025.12.10-12.06.41:706][342]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDAccelerationStructuresExtension] ...
+[2025.12.10-12.06.41:988][342]LogChaosDD: Chaos Debug Draw Shutdown
+[2025.12.10-12.06.41:999][342]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2025.12.10-12.06.41:999][342]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B373D3E5E-4258-E109-3085-129CFFFD77F9%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.0-43139311%2B%2B%2BUE5%2BRelease-5.6&UserID=b8c854b94ca8f3ffa9deefbeb0d3c2e5%7C30a9fd17d952432988c8e7bfcd0a436a%7C91349c6d-2025-49c3-b710-ab20aff348de&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2025.12.10-12.06.42:529][342]LogEOSShared: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2025.12.10-12.06.42:540][342]LogNFORDenoise: NFORDenoise function shutting down
+[2025.12.10-12.06.42:543][342]RenderDocPlugin: plugin has been unloaded.
+[2025.12.10-12.06.42:545][342]LogXGEController: Cleaning working directory: C:/Users/s4203496/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2025.12.10-12.06.42:548][342]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2025.12.10-12.06.42:548][342]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2025.12.10-12.06.42:548][342]LogPakFile: Destroying PakPlatformFile
+[2025.12.10-12.06.43:739][342]LogD3D12RHI: ~FD3D12DynamicRHI
+[2025.12.10-12.06.43:858][342]LogExit: Exiting.
+[2025.12.10-12.06.43:880][342]Log file closed, 12/10/25 12:06:43
